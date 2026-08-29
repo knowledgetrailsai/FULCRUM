@@ -1,4 +1,4 @@
-# Fulcrum: OASIS AI FinOps
+# Fulcrum:  AI FinOps ( Part of OASIS)
 
 A comprehensive AI FinOps knowledge base — covering cost economics, value economics, measurement, architecture, lifecycle, and governance — organized as a **control plane**, not an encyclopedia. Content flows through a consistent chain so any economic decision can be traced from principle to proof:
 
