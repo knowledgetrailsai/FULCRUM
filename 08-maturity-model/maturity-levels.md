@@ -2,7 +2,7 @@
 
 `Home › 08-maturity-model › Maturity Levels`
 
-Use this to assess where an organization or workload currently sits, and what "next" looks like.
+Use this to assess where an organization or workload currently sits, and what "next" looks like. (Note: [OASIS's own nine-dimension engineering maturity model](https://github.com/knowledgetrailsai/OASIS/blob/main/assessments/oasis-ai-engineering-maturity-model.md) also scores an "Economics and FinOps" dimension on a Level 0-4 scale — a different, coarser measure of overall economics-engineering practice, not this cost/value-tracking-specific scale. The two Level numbers are not interchangeable.)
 
 | Level | Cost Tracking | Value Tracking | Governance |
 |---|---|---|---|
