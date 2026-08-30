@@ -121,9 +121,14 @@ Not sure which section has what you need? See [INDEX.md](INDEX.md) for every fil
 4. See the [worked example](10-case-studies/customer-support-agent.md) for how this applies end-to-end, or check [09-sector-specific-finops](09-sector-specific-finops/claims-processing.md) if your workload type is covered.
 5. New to rolling this out organization-wide? Start with the [90-Day Adoption Plan](11-implementation-playbooks/finops-adoption-90-day-plan.md).
 
-## Related Work
+## Relationship to companion repositories
 
-This methodology is a companion to [**OASIS — Outcome as a Service using Intelligent Stack**](https://github.com/knowledgetrailsai/OASIS), which covers the broader operating lifecycle for AI-led transformation, and to [**Responsible-AI**](https://github.com/knowledgetrailsai/Responsible-AI), which covers governance, risk, and assurance. **OASIS AI FinOps** focuses specifically on the economic layer: cost, value, and the discipline connecting them.
+Fulcrum is the [OASIS](https://github.com/knowledgetrailsai/OASIS) companion for Chapter 22, Economics, FinOps and Sustainability — the economic layer: cost, value, and the discipline connecting them. See the [Companion Repository Index](https://github.com/knowledgetrailsai/OASIS/blob/main/References/companion-repository-index.md) for how the other Part III chapters map to their own companions.
+
+- **[Compass](https://github.com/knowledgetrailsai/responsible-ai)** — the responsible-AI, security, and governance companion (Chapters 19–20); a use case's regulatory obligations there often carry cost implications this repository's unit-economics tracking should surface.
+- **[Helm](https://github.com/knowledgetrailsai/HELM)** — the deployment/AgentOps companion; the Economic plane in Helm's observability spec is the raw telemetry Fulcrum's cost-progression and value-per-outcome benchmarks depend on.
+- **[Nexus](https://github.com/knowledgetrailsai/Nexus)** — the opportunity catalog; a use case's projected cost and value shape are estimated here once it reaches Fulcrum's cost/value framework.
+- **[Forge](https://github.com/knowledgetrailsai/Forge)**, **[Loom](https://github.com/knowledgetrailsai/Loom)**, **[Verity](https://github.com/knowledgetrailsai/Verity)**, **[Ageis](https://github.com/knowledgetrailsai/Ageis)**, **[Axiom](https://github.com/knowledgetrailsai/Axiom)** — the data/knowledge, human-AI workflow, evaluation, coding-delivery, and model-architecture companions respectively; none carry direct cost dependencies on Fulcrum, but any of them can be the source of the effort or compute line items Fulcrum's cost model tracks.
 
 ## Contributing
 
