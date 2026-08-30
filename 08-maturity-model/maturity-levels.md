@@ -38,4 +38,4 @@ Use this to assess where an organization or workload currently sits, and what "n
 
 ---
 
-**Next section:** [09-sector-specific-finops](../09-sector-specific-finops/)
+**Next section:** [09-sector-specific-finops](../09-sector-specific-finops/claims-processing.md)

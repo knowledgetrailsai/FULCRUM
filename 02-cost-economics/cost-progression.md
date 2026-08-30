@@ -15,13 +15,13 @@
 
 Consider two customer-service agents. The first consumes 10 million tokens and resolves 100,000 requests. The second also consumes 10 million tokens, but resolves only 20,000, frequently retrying and escalating. From a token or request perspective, they look identical. From a business perspective, they are completely different systems.
 
-Cost per token and cost per request measure *activity*. They say nothing about whether that activity produced anything of value. This is the core reason this repository pairs cost with [value economics](../03-value-economics/) at every level.
+Cost per token and cost per request measure *activity*. They say nothing about whether that activity produced anything of value. This is the core reason this repository pairs cost with [value economics](../03-value-economics/value-calculation.md) at every level.
 
 ## Moving to Level 4
 
 Reaching cost per successful outcome requires:
 
-1. A precise **outcome definition** — see [03-value-economics/value-progression.md](../03-value-economics/value-progression.md) and [templates/outcome-value-definition-sheet.md](../../templates/outcome-value-definition-sheet.md)
+1. A precise **outcome definition** — see [03-value-economics/value-progression.md](../03-value-economics/value-progression.md) and [templates/outcome-value-definition-sheet.md](../templates/outcome-value-definition-sheet.md)
 2. **Task-level tracing** that links consumption to a specific outcome, not just a request — see [04-measurement-and-observability/tracing-and-attribution.md](../04-measurement-and-observability/tracing-and-attribution.md)
 3. Willingness to report the number even when it's unfavorable — Level 4 tracking surfaces expensive workflows that Level 1–2 tracking hides
 

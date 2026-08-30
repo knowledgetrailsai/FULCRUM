@@ -39,8 +39,8 @@ See [05-architecture-and-design/workload-routing.md](../05-architecture-and-desi
 
 ## Lifecycle ≠ Governance
 
-- **Lifecycle** ([06-lifecycle](../06-lifecycle/)) is *when* — the six phases a workload moves through.
-- **Governance** ([07-governance](../07-governance/)) is *who decides* — review gates, decision rights, escalation.
+- **Lifecycle** ([06-lifecycle](../06-lifecycle/lifecycle-overview.md)) is *when* — the six phases a workload moves through.
+- **Governance** ([07-governance](../07-governance/decision-rights.md)) is *who decides* — review gates, decision rights, escalation.
 
 Kept as separate sections deliberately, matching the same distinction used in the companion [Responsible-AI](https://github.com/knowledgetrailsai/Responsible-AI) repository.
 

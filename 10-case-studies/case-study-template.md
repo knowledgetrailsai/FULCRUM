@@ -56,4 +56,4 @@ Net AI Value              = ...
 
 ---
 
-**See:** [09-sector-specific-finops](../09-sector-specific-finops/) for guidance specific to your workload type before writing your case study.
+**See:** [09-sector-specific-finops](../09-sector-specific-finops/claims-processing.md) for guidance specific to your workload type before writing your case study.

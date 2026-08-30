@@ -12,7 +12,7 @@ Neither ledger is meaningful alone. Cost without value looks like waste even whe
 
 ## The Cost Ledger
 
-Full detail: [02-cost-economics/](../02-cost-economics/)
+Full detail: [02-cost-economics/](../02-cost-economics/cost-progression.md)
 
 | Level | Metric | What It Tells You |
 |---|---|---|
@@ -23,7 +23,7 @@ Full detail: [02-cost-economics/](../02-cost-economics/)
 
 ## The Value Ledger
 
-Full detail: [03-value-economics/](../03-value-economics/)
+Full detail: [03-value-economics/](../03-value-economics/value-calculation.md)
 
 | Level | Metric | What It Tells You |
 |---|---|---|
@@ -45,7 +45,7 @@ A system with high Cost Density but also high Value Density can still be the rig
 
 ## Where This Model Is Applied
 
-Every phase in the [lifecycle](../06-lifecycle/lifecycle-overview.md) touches both ledgers. Every governance gate in [07-governance](../07-governance/review-gates.md) requires both. The [templates](../templates/) capture both. This is the single model the rest of the repository builds on.
+Every phase in the [lifecycle](../06-lifecycle/lifecycle-overview.md) touches both ledgers. Every governance gate in [07-governance](../07-governance/review-gates.md) requires both. The [templates](../templates/cost-value-dashboard-spec.md) capture both. This is the single model the rest of the repository builds on.
 
 ---
 

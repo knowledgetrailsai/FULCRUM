@@ -118,7 +118,7 @@ Not sure which section has what you need? See [INDEX.md](INDEX.md) for every fil
 1. Read [Core Principles](01-foundations/principles.md) and [The Two Ledgers](01-foundations/two-ledgers-cost-and-value.md).
 2. Copy the [Outcome & Value Definition Sheet](templates/outcome-value-definition-sheet.md) for your workload and fill it in with your business owner — **before** any architecture work starts.
 3. Run the [Economic Design Checklist](templates/economic-design-checklist.md) at architecture review.
-4. See the [worked example](10-case-studies/customer-support-agent.md) for how this applies end-to-end, or check [09-sector-specific-finops](09-sector-specific-finops/) if your workload type is covered.
+4. See the [worked example](10-case-studies/customer-support-agent.md) for how this applies end-to-end, or check [09-sector-specific-finops](09-sector-specific-finops/claims-processing.md) if your workload type is covered.
 5. New to rolling this out organization-wide? Start with the [90-Day Adoption Plan](11-implementation-playbooks/finops-adoption-90-day-plan.md).
 
 ## Related Work

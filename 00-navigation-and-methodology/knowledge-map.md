@@ -13,12 +13,12 @@ PRINCIPLE → COST/VALUE DRIVER → DESIGN LEVER → MEASUREMENT → DECISION �
 | Stage | Question it answers | Section |
 |---|---|---|
 | **Principle** | What do we believe about AI economics? | [01-foundations](../01-foundations/principles.md) |
-| **Cost driver** | What actually generates AI spend? | [02-cost-economics](../02-cost-economics/) |
-| **Value driver** | What actually generates business value? | [03-value-economics](../03-value-economics/) |
-| **Design lever** | What architectural choice controls this? | [05-architecture-and-design](../05-architecture-and-design/) |
-| **Measurement** | How do we see it, per workflow? | [04-measurement-and-observability](../04-measurement-and-observability/) |
+| **Cost driver** | What actually generates AI spend? | [02-cost-economics](../02-cost-economics/cost-progression.md) |
+| **Value driver** | What actually generates business value? | [03-value-economics](../03-value-economics/value-calculation.md) |
+| **Design lever** | What architectural choice controls this? | [05-architecture-and-design](../05-architecture-and-design/economic-design-review.md) |
+| **Measurement** | How do we see it, per workflow? | [04-measurement-and-observability](../04-measurement-and-observability/cost-value-density.md) |
 | **Lifecycle checkpoint** | When in the workflow's life does this get decided? | [06-lifecycle](../06-lifecycle/lifecycle-overview.md) |
-| **Governance** | Who decides, and what triggers escalation? | [07-governance](../07-governance/) |
+| **Governance** | Who decides, and what triggers escalation? | [07-governance](../07-governance/decision-rights.md) |
 
 ## Worked Example: Tracing One Decision End-to-End
 
