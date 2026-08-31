@@ -140,9 +140,7 @@ This repository provides general guidance and methodology. It is not financial o
 
 ## License
 
-Licensed under [CC BY-SA 4.0](LICENSE). Credit Shripadraj Mujumdar,
-KnowledgeTrails, and Fulcrum; indicate changes and release adaptations under
-the same license.
+Licensed under [CC BY-SA 4.0](https://github.com/knowledgetrailsai/OASIS/blob/main/LICENSE.md). Reuse and adaptation are welcome with credit to KnowledgeTrails-OASIS, a link to the license, an indication of changes, and release of adaptations under the same license.
 
 ## About Us
 
