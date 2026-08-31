@@ -18,6 +18,10 @@ Full reference of every metric used across this repository, with formula, freque
 | Escalation rate | Tasks escalated to human ÷ total tasks | Weekly | Workflow owner | [Total Economic Cost](../02-cost-economics/total-economic-cost.md) |
 | Model tier distribution | % of tasks handled at each model tier | Weekly | Engineering | [Model Routing](../05-architecture-and-design/model-routing.md) |
 
+## Why "Cost per token" is Continuous, not Weekly
+
+This is the one metric on this page tracked continuously rather than on a review cycle, and that's deliberate. Token spend is invisible to traditional IT cost reporting — it doesn't show up as a line item until someone goes looking for it, and by the time a weekly or monthly report surfaces a spike, an agent estate can have run for days at an inefficient rate. Track it in real time, broken out by workflow and domain (not just an aggregate enterprise number), so a cost anomaly in one workflow is visible before it compounds into next month's bill.
+
 ## Alerting Thresholds (starting points — tune per workload)
 
 - Iteration count for a single task exceeds the defined ceiling (see [economic design checklist](../templates/economic-design-checklist.md))
