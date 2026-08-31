@@ -1,0 +1,35 @@
+# Fulcrum (oasis-fulcrum)
+
+> Fulcrum is the economics, FinOps and sustainability companion to the OASIS methodology — implementing Chapter 22: unit economics, cost/value density, token-cost tracking, and the six-phase lifecycle for architecting, instrumenting and optimizing AI economics.
+
+See [INDEX.md](https://raw.githubusercontent.com/knowledgetrailsai/OASIS-AI-FINOPS/main/INDEX.md) for the complete flat file list.
+
+## Foundations and cost economics
+
+- [What Is AI FinOps](https://raw.githubusercontent.com/knowledgetrailsai/OASIS-AI-FINOPS/main/01-foundations/what-is-ai-finops.md)
+- [The Two Ledgers: Cost and Value](https://raw.githubusercontent.com/knowledgetrailsai/OASIS-AI-FINOPS/main/01-foundations/two-ledgers-cost-and-value.md)
+- [Total Economic Cost](https://raw.githubusercontent.com/knowledgetrailsai/OASIS-AI-FINOPS/main/02-cost-economics/total-economic-cost.md)
+- [The Three Hidden Cost Multipliers](https://raw.githubusercontent.com/knowledgetrailsai/OASIS-AI-FINOPS/main/02-cost-economics/hidden-multipliers.md)
+
+## Value, measurement and architecture
+
+- [Value Calculation](https://raw.githubusercontent.com/knowledgetrailsai/OASIS-AI-FINOPS/main/03-value-economics/value-calculation.md)
+- [Cost Density and Value Density](https://raw.githubusercontent.com/knowledgetrailsai/OASIS-AI-FINOPS/main/04-measurement-and-observability/cost-value-density.md)
+- [Metrics Catalog](https://raw.githubusercontent.com/knowledgetrailsai/OASIS-AI-FINOPS/main/04-measurement-and-observability/metrics-catalog.md): every metric with formula, frequency and owner — including why token cost is tracked continuously.
+- [Six Optimization Levers](https://raw.githubusercontent.com/knowledgetrailsai/OASIS-AI-FINOPS/main/05-architecture-and-design/optimization-levers.md)
+
+## Lifecycle and governance
+
+- [Lifecycle Overview](https://raw.githubusercontent.com/knowledgetrailsai/OASIS-AI-FINOPS/main/06-lifecycle/lifecycle-overview.md)
+- [Decision Rights](https://raw.githubusercontent.com/knowledgetrailsai/OASIS-AI-FINOPS/main/07-governance/decision-rights.md)
+- [Maturity Levels](https://raw.githubusercontent.com/knowledgetrailsai/OASIS-AI-FINOPS/main/08-maturity-model/maturity-levels.md)
+
+## Reference
+
+- [Terminology — Key Distinctions](https://raw.githubusercontent.com/knowledgetrailsai/OASIS-AI-FINOPS/main/00-navigation-and-methodology/terminology-and-glossary.md)
+
+## Companion repositories
+
+- [OASIS](https://raw.githubusercontent.com/knowledgetrailsai/OASIS/main/llms.txt) — parent methodology (Chapter 22 implemented here).
+- [Helm](https://raw.githubusercontent.com/knowledgetrailsai/HELM/main/llms.txt) — Economic-plane telemetry feeds Fulcrum's cost model.
+- [Ageis](https://raw.githubusercontent.com/knowledgetrailsai/Agentic-Engineeering-SDLC/main/llms.txt), [Forge](https://raw.githubusercontent.com/knowledgetrailsai/Forge/master/llms.txt), [Loom](https://raw.githubusercontent.com/knowledgetrailsai/LOOM/master/llms.txt), [Verity](https://raw.githubusercontent.com/knowledgetrailsai/VERITY/master/llms.txt), [Compass](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/llms.txt) — sibling chapter companions.
