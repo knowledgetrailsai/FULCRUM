@@ -1,6 +1,6 @@
 # Fulcrum:  AI FinOps ( Part of OASIS)
 
-A comprehensive AI FinOps knowledge base — covering cost economics, value economics, measurement, architecture, lifecycle, and governance — organized as a **control plane**, not an encyclopedia. Content flows through a consistent chain so any economic decision can be traced from principle to proof:
+A comprehensive AI FinOps knowledge base covering cost economics, value economics, measurement, architecture, lifecycle, and governance. Think of it as the control layer for economic decisions, not a reference encyclopedia. Content flows through a consistent chain so any economic decision can be traced from principle to proof:
 
 ```
 PRINCIPLE → COST/VALUE DRIVER → DESIGN LEVER → MEASUREMENT → DECISION → GOVERNANCE
@@ -13,9 +13,9 @@ See [00-navigation-and-methodology/knowledge-map.md](00-navigation-and-methodolo
 
 ## Why This Exists
 
-Most enterprise AI cost overruns are not caused by model pricing. They are caused by architecture decisions made before anyone thought about cost — how much context gets sent, how many times an agent loops, how many models are stacked for evaluation.
+Most enterprise AI cost overruns are not caused by model pricing. They are caused by architecture decisions made before anyone thought about cost: how much context gets sent, how many times an agent loops, how many models are stacked for evaluation.
 
-At the same time, most organizations track AI **cost** without tracking AI **value**. A system can be cheap and worthless, or expensive and highly profitable — cost alone tells you neither.
+At the same time, most organizations track AI **cost** without tracking AI **value**. A system can be cheap and worthless, or expensive and highly profitable; cost alone tells you neither.
 
 ```
 Net AI Value = Realized Business Value − Total Economic Cost
@@ -25,19 +25,19 @@ This repository treats AI economics as two ledgers, tracked together, from archi
 
 ## Start Here
 
-New to this repository? Read [00-navigation-and-methodology/how-to-use-this-repository.md](00-navigation-and-methodology/how-to-use-this-repository.md) — it routes you to the right section based on your role and task.
+New to this repository? Read [00-navigation-and-methodology/how-to-use-this-repository.md](00-navigation-and-methodology/how-to-use-this-repository.md). It routes you to the right section based on your role and task.
 
 ## Repository Structure
 
 ### 00 · Navigation and Methodology
 - [Knowledge Map](00-navigation-and-methodology/knowledge-map.md)
 - [How to Use This Repository](00-navigation-and-methodology/how-to-use-this-repository.md)
-- [Terminology — Key Distinctions](00-navigation-and-methodology/terminology-and-glossary.md)
+- [Terminology: Key Distinctions](00-navigation-and-methodology/terminology-and-glossary.md)
 
 ### 01 · Foundations
 - [What Is AI FinOps](01-foundations/what-is-ai-finops.md)
 - [Core Principles](01-foundations/principles.md)
-- [The Two Ledgers — Cost and Value](01-foundations/two-ledgers-cost-and-value.md)
+- [The Two Ledgers: Cost and Value](01-foundations/two-ledgers-cost-and-value.md)
 - [Stakeholder Roles](01-foundations/stakeholder-roles.md)
 
 ### 02 · Cost Economics
@@ -50,7 +50,7 @@ New to this repository? Read [00-navigation-and-methodology/how-to-use-this-repo
 - [Value Progression](03-value-economics/value-progression.md)
 - [Value Calculation](03-value-economics/value-calculation.md)
 - [Value Leakage](03-value-economics/value-leakage.md)
-- [Value per Outcome — Benchmarking Guidance](03-value-economics/value-per-outcome-benchmarks.md)
+- [Value per Outcome: Benchmarking Guidance](03-value-economics/value-per-outcome-benchmarks.md)
 
 ### 04 · Measurement and Observability
 - [Cost Density and Value Density](04-measurement-and-observability/cost-value-density.md)
@@ -66,12 +66,12 @@ New to this repository? Read [00-navigation-and-methodology/how-to-use-this-repo
 
 ### 06 · Lifecycle
 - [Lifecycle Overview](06-lifecycle/lifecycle-overview.md)
-- [Phase 1 — Define & Baseline](06-lifecycle/phase-1-define-baseline.md)
-- [Phase 2 — Architect for Economics](06-lifecycle/phase-2-architect.md)
-- [Phase 3 — Instrument](06-lifecycle/phase-3-instrument.md)
-- [Phase 4 — Pilot & Calibrate](06-lifecycle/phase-4-pilot-calibrate.md)
-- [Phase 5 — Operate & Attribute](06-lifecycle/phase-5-operate-attribute.md)
-- [Phase 6 — Optimize & Scale](06-lifecycle/phase-6-optimize-scale.md)
+- [Phase 1: Define & Baseline](06-lifecycle/phase-1-define-baseline.md)
+- [Phase 2: Architect for Economics](06-lifecycle/phase-2-architect.md)
+- [Phase 3: Instrument](06-lifecycle/phase-3-instrument.md)
+- [Phase 4: Pilot & Calibrate](06-lifecycle/phase-4-pilot-calibrate.md)
+- [Phase 5: Operate & Attribute](06-lifecycle/phase-5-operate-attribute.md)
+- [Phase 6: Optimize & Scale](06-lifecycle/phase-6-optimize-scale.md)
 
 ### 07 · Governance
 - [Review Gates](07-governance/review-gates.md)
@@ -116,14 +116,14 @@ Not sure which section has what you need? See [INDEX.md](INDEX.md) for every fil
 ## Quick Start
 
 1. Read [Core Principles](01-foundations/principles.md) and [The Two Ledgers](01-foundations/two-ledgers-cost-and-value.md).
-2. Copy the [Outcome & Value Definition Sheet](templates/outcome-value-definition-sheet.md) for your workload and fill it in with your business owner — **before** any architecture work starts.
+2. Copy the [Outcome & Value Definition Sheet](templates/outcome-value-definition-sheet.md) for your workload and fill it in with your business owner (**before** any architecture work starts).
 3. Run the [Economic Design Checklist](templates/economic-design-checklist.md) at architecture review.
 4. See the [worked example](10-case-studies/customer-support-agent.md) for how this applies end-to-end, or check [09-sector-specific-finops](09-sector-specific-finops/claims-processing.md) if your workload type is covered.
 5. New to rolling this out organization-wide? Start with the [90-Day Adoption Plan](11-implementation-playbooks/finops-adoption-90-day-plan.md).
 
 ## Relationship to companion repositories
 
-Fulcrum is the [OASIS](https://github.com/knowledgetrailsai/OASIS) companion for Chapter 22, Economics, FinOps and Sustainability — the economic layer: cost, value, and the discipline connecting them. See the [Companion Repository Index](https://github.com/knowledgetrailsai/OASIS/blob/main/References/companion-repository-index.md) for how the other Part III chapters map to their own companions.
+Fulcrum is the [OASIS](https://github.com/knowledgetrailsai/OASIS) companion for Chapter 22, Economics, FinOps and Sustainability, covering the economic layer: cost, value, and the discipline connecting them. See the [Companion Repository Index](https://github.com/knowledgetrailsai/OASIS/blob/main/References/companion-repository-index.md) for how the other Part III chapters map to their own companions.
 
 - **[Compass](https://github.com/knowledgetrailsai/responsible-ai)** — the responsible-AI, security, and governance companion (Chapters 19–20); a use case's regulatory obligations there often carry cost implications this repository's unit-economics tracking should surface.
 - **[Helm](https://github.com/knowledgetrailsai/HELM)** — the deployment/AgentOps companion; the Economic plane in Helm's observability spec is the raw telemetry Fulcrum's cost-progression and value-per-outcome benchmarks depend on.
