@@ -4,7 +4,7 @@
 
 ## Outcome Definition Guidance
 
-Define success as an **accurately** processed claim, not merely a processed one — accuracy verified against a sampled audit or downstream dispute rate. This is a high-risk workload category where the [Shadow Tax of Evaluation](../02-cost-economics/hidden-multipliers.md#3-shadow-tax-of-evaluation) is often justified rather than a cost to minimize.
+Define success as an **accurately** processed claim, not merely a processed one, accuracy verified against a sampled audit or downstream dispute rate. This is a high-risk workload category where the [Shadow Tax of Evaluation](../02-cost-economics/hidden-multipliers.md#3-shadow-tax-of-evaluation) is often justified rather than a cost to minimize.
 
 ## Value per Outcome Guidance
 
@@ -12,12 +12,12 @@ Use fully-loaded cost of equivalent manual processing, **adjusted for accuracy**
 
 ## Typical Hidden Multipliers
 
-- **Shadow Tax of Evaluation** is typically the largest and most justified cost here — financial and compliance risk warrants a dedicated evaluation layer.
+- **Shadow Tax of Evaluation** is typically the largest and most justified cost here. Financial and compliance risk warrants a dedicated evaluation layer.
 - **Context Window Tax** from large supporting documents (policy documents, claim history, correspondence) attached to every call.
 
 ## Typical Value Leakage Sources
 
-- Incorrectly approved claims (false positives) — often the single largest leakage source in this category
+- Incorrectly approved claims (false positives), often the single largest leakage source in this category
 - Compliance exposure from decisions that don't meet regulatory documentation standards
 - Downstream disputes and appeals
 

@@ -2,12 +2,12 @@
 
 `Home › 10-case-studies › Customer Support Agent`
 
-This example walks a single workload — a billing-inquiry support agent — through all six phases, illustrating how the framework applies in practice. Figures are illustrative, not benchmarks. See [sector guidance](../09-sector-specific-finops/customer-support-agents.md) for general treatment of this workload type.
+This example walks a single workload (a billing-inquiry support agent) through all six phases, illustrating how the framework applies in practice. Figures are illustrative, not benchmarks. See [sector guidance](../09-sector-specific-finops/customer-support-agents.md) for general treatment of this workload type.
 
 ## Phase 1 — Define & Baseline
 
 - **Outcome definition:** A billing inquiry is "resolved" if the customer does not reopen the same ticket, or open a related one, within 7 days.
-- **Value per outcome:** $8.40 — average fully-loaded cost of a human agent handling an equivalent ticket, per the support team's cost report.
+- **Value per outcome:** $8.40: average fully-loaded cost of a human agent handling an equivalent ticket, per the support team's cost report.
 - **Baseline cost (pre-AI):** $8.40 per ticket, 100% human-handled, average 6-minute handle time.
 - **Expected volume:** 50,000 billing tickets/month.
 - **Value Leakage risks identified:** (1) agent gives an incorrect refund amount not caught until a later dispute; (2) agent resolves the immediate question but the underlying billing error recurs next cycle, generating a new ticket that looks unrelated.
@@ -16,7 +16,7 @@ This example walks a single workload — a billing-inquiry support agent — thr
 ## Phase 2 — Architect for Economics
 
 - Workload routing applied ([Workload Routing](../05-architecture-and-design/workload-routing.md)): account-balance lookups → direct API call, not a model. Refund-eligibility checks → small classification model. Only ambiguous disputes reach a larger reasoning model.
-- Evaluation layer added only for refund-issuing actions (financial risk), not informational queries — applying [proportional evaluation](../02-cost-economics/hidden-multipliers.md#3-shadow-tax-of-evaluation).
+- Evaluation layer added only for refund-issuing actions (financial risk), not informational queries, applying [proportional evaluation](../02-cost-economics/hidden-multipliers.md#3-shadow-tax-of-evaluation).
 - Iteration ceiling set at 6 steps per ticket; anything requiring more escalates to a human.
 - **Projected Cost Density:** $0.35/resolved ticket.
 - **Projected Value Density:** $8.40 ÷ $0.35 ≈ 24x.
@@ -38,7 +38,7 @@ This example walks a single workload — a billing-inquiry support agent — thr
 
 - Weekly dashboard tracks Cost Density and Value Density per ticket category separately, not as one blended number.
 - Value Leakage tracked monthly: reopened-ticket rate held at 3.1%, within the 5% tolerance set in Phase 1. Refund-dispute rate held at 0.4%.
-- One cost anomaly caught in month 3: an iteration-count spike traced to a new billing promotion confusing the classifier — routed to engineering within the week rather than surfacing only in the next invoice cycle.
+- One cost anomaly caught in month 3: an iteration-count spike traced to a new billing promotion confusing the classifier, routed to engineering within the week rather than surfacing only in the next invoice cycle.
 
 ## Phase 6 — Optimize & Scale
 

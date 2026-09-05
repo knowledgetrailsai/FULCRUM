@@ -4,11 +4,11 @@
 
 ## Outcome Definition Guidance
 
-Define "resolved" precisely — e.g., no reopened or related ticket within a defined window (commonly 7 days). Avoid defining success as "response sent" or "ticket closed," both of which can be gamed by premature closure. See [Value Progression](../03-value-economics/value-progression.md).
+Define "resolved" precisely, e.g., no reopened or related ticket within a defined window (commonly 7 days). Avoid defining success as "response sent" or "ticket closed," both of which can be gamed by premature closure. See [Value Progression](../03-value-economics/value-progression.md).
 
 ## Value per Outcome Guidance
 
-Use the fully-loaded cost of the equivalent human-handled ticket as the primary basis — see [Value per Outcome Benchmarks](../03-value-economics/value-per-outcome-benchmarks.md). Segment by ticket complexity if human handle time varies significantly by category.
+Use the fully-loaded cost of the equivalent human-handled ticket as the primary basis. See [Value per Outcome Benchmarks](../03-value-economics/value-per-outcome-benchmarks.md). Segment by ticket complexity if human handle time varies significantly by category.
 
 ## Typical Hidden Multipliers
 

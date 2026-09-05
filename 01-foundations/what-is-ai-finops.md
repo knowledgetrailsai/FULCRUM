@@ -4,7 +4,7 @@
 
 ## Definition
 
-AI FinOps is the discipline of designing, measuring, valuing, and governing the economics of AI systems — treating cost and business value as two ledgers tracked together, from architecture through operation, rather than a monthly invoice reviewed after the fact.
+AI FinOps is the discipline of designing, measuring, valuing, and governing the economics of AI systems, treating cost and business value as two ledgers tracked together, from architecture through operation, rather than a monthly invoice reviewed after the fact.
 
 ## Why It's Not Just Cloud FinOps With a Token Column
 
@@ -12,11 +12,11 @@ Traditional cloud FinOps grew around a predictable cost surface: provision infra
 
 AI cost is **behavioral**, not just infrastructural. A user can trigger a longer prompt. An agent can call another agent. A reasoning model can consume significantly more tokens than a simple interaction. A tool can return a large payload. An agent can retry a failed step. An evaluation layer can invoke another model. A premium model can be used for a task a smaller model could have handled.
 
-The system can influence its own consumption at runtime — something traditional infrastructure cannot do. This is why understanding the *behavior* of the AI system matters more than understanding the infrastructure underneath it.
+The system can influence its own consumption at runtime, something traditional infrastructure cannot do. This is why understanding the *behavior* of the AI system matters more than understanding the infrastructure underneath it.
 
 ## Why It's Not Just Cost Tracking
 
-A second, equally common gap: organizations that do build cost visibility often stop there, without an equivalent discipline for value. A system can be cheap and worthless, or expensive and highly profitable. Cost alone tells you neither. AI FinOps treats cost and value as inseparable — see [Two Ledgers](two-ledgers-cost-and-value.md).
+A second, equally common gap: organizations that do build cost visibility often stop there, without an equivalent discipline for value. A system can be cheap and worthless, or expensive and highly profitable. Cost alone tells you neither. AI FinOps treats cost and value as inseparable, see [Two Ledgers](two-ledgers-cost-and-value.md).
 
 ## Where It Sits Relative to Other Disciplines
 
@@ -34,7 +34,7 @@ The first question most organizations ask is: *"How much are we spending on AI?"
 
 The mature question is: *"How much intelligence does our architecture need to consume to produce one valuable outcome — and is that consumption producing more value than it costs?"*
 
-That shift — from spend visibility to cost/value density — is what this repository operationalizes.
+That shift (from spend visibility to cost/value density) is what this repository operationalizes.
 
 ---
 

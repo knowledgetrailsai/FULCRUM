@@ -14,7 +14,7 @@ AI FinOps fails when one role tries to own both ledgers alone. This methodology 
 
 ## Why the Split Matters
 
-If engineering sets the value-per-outcome figure, the business case tends to justify the build already underway. If the business owner sets cost architecture, technical tradeoffs get made without engineering judgment. The split forces the two ledgers to be independently defensible — see [Principle 3: Value must be calculated before it's claimed](principles.md#3-value-must-be-calculated-before-its-claimed).
+If engineering sets the value-per-outcome figure, the business case tends to justify the build already underway. If the business owner sets cost architecture, technical tradeoffs get made without engineering judgment. The split forces the two ledgers to be independently defensible; see [Principle 3: Value must be calculated before it's claimed](principles.md#3-value-must-be-calculated-before-its-claimed).
 
 Full decision-rights detail, including escalation: [07-governance/decision-rights.md](../07-governance/decision-rights.md).
 

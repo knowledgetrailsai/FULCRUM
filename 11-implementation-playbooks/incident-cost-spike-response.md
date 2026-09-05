@@ -17,7 +17,7 @@ Cost Density for a workflow moves more than 20% week-over-week without a corresp
    - A degraded upstream tool causing retries
 3. **Contain.** If the workflow has a defined iteration ceiling or escalation threshold (see [Economic Design Checklist](../templates/economic-design-checklist.md)), confirm it's enforced. If not, apply a temporary ceiling.
 4. **Fix.** Apply the relevant [Optimization Lever](../05-architecture-and-design/optimization-levers.md) — typically Reduce or Route.
-5. **Report.** Log the incident and remediation against the workflow's record — this feeds the [Phase 6 portfolio review](../06-lifecycle/phase-6-optimize-scale.md) and should inform whether Total Economic Cost assumptions need revisiting.
+5. **Report.** Log the incident and remediation against the workflow's record. This feeds the [Phase 6 portfolio review](../06-lifecycle/phase-6-optimize-scale.md) and should inform whether Total Economic Cost assumptions need revisiting.
 
 ## Distinction From Sustained Escalation
 

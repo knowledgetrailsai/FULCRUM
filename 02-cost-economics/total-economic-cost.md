@@ -25,7 +25,7 @@ Total Economic Cost = AI cost + failure cost + retry cost + human intervention +
 
 If the only objective is minimizing AI spend, organizations may systematically choose models too weak for the task. Suppose a low-cost model succeeds 70% of the time while a more expensive model succeeds 95% of the time. The cheaper model may generate more retries, more human escalation, more incorrect actions, more support effort, more downstream remediation.
 
-The actual economic equation is broader than model cost. The objective isn't minimum AI spend — it's **minimum Total Economic Cost for the required level of quality, risk, and business value**.
+The actual economic equation is broader than model cost. The objective isn't minimum AI spend. It's **minimum Total Economic Cost for the required level of quality, risk, and business value**.
 
 ## Where This Is Applied
 

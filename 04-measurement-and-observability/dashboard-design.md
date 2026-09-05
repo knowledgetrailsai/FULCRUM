@@ -4,7 +4,7 @@
 
 ## Design Principle
 
-A dashboard showing only aggregate spend answers "how much did we spend" — the wrong question. A dashboard built for AI FinOps must answer "which workflow, which step, and was it worth it" at a glance.
+A dashboard showing only aggregate spend answers "how much did we spend," the wrong question. A dashboard built for AI FinOps must answer "which workflow, which step, and was it worth it" at a glance.
 
 ## Recommended Layout
 

@@ -4,11 +4,11 @@
 
 ## Outcome Definition Guidance
 
-Define success as an **accepted** change — merged, or approved by a human reviewer — not merely a generated suggestion. A rejected or heavily-edited suggestion has near-zero or negative value; counting generated output as an outcome significantly overstates value. See [Value Progression](../03-value-economics/value-progression.md).
+Define success as an **accepted** change (merged, or approved by a human reviewer) not merely a generated suggestion. A rejected or heavily-edited suggestion has near-zero or negative value; counting generated output as an outcome significantly overstates value. See [Value Progression](../03-value-economics/value-progression.md).
 
 ## Value per Outcome Guidance
 
-Use engineer time saved × loaded hourly rate, measured only against accepted changes. Track review time separately — high review overhead on rejected suggestions is a [Value Leakage](../03-value-economics/value-leakage.md) source, not a neutral cost.
+Use engineer time saved × loaded hourly rate, measured only against accepted changes. Track review time separately. High review overhead on rejected suggestions is a [Value Leakage](../03-value-economics/value-leakage.md) source, not a neutral cost.
 
 ## Typical Hidden Multipliers
 
@@ -18,7 +18,7 @@ Use engineer time saved × loaded hourly rate, measured only against accepted ch
 ## Typical Value Leakage Sources
 
 - Rejected or heavily-edited suggestions counted as "output produced" but not adopted
-- Introduced bugs requiring later remediation — a serious leakage source, often invisible until a downstream incident
+- Introduced bugs requiring later remediation, a serious leakage source, often invisible until a downstream incident
 - Reviewer time spent on low-quality suggestions
 
 ## Recommended Workload Routing

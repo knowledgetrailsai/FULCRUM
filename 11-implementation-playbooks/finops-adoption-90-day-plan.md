@@ -22,7 +22,7 @@ A starting plan for an organization moving from [Maturity Level 0 or 1](../08-ma
 
 ## Days 61–90: Governance
 
-- Stand up the [review gates](../07-governance/review-gates.md) — require the [Economic Design Checklist](../templates/economic-design-checklist.md) for any new workload from this point forward.
+- Stand up the [review gates](../07-governance/review-gates.md). Require the [Economic Design Checklist](../templates/economic-design-checklist.md) for any new workload from this point forward.
 - Build the [Level 1–2 dashboards](../04-measurement-and-observability/dashboard-design.md) for ongoing tracking.
 - Run the first quarterly portfolio review ([Phase 6](../06-lifecycle/phase-6-optimize-scale.md)) ranking existing workflows by Net AI Value.
 

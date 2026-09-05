@@ -2,7 +2,7 @@
 
 `Home › Index`
 
-Every file in this repository, one flat list. Same content as the structured listing in [README.md](README.md) — if the two ever drift, this file is the source of truth.
+Every file in this repository, one flat list. Same content as the structured listing in [README.md](README.md). If the two ever drift, this file is the source of truth.
 
 ## 00-navigation-and-methodology
 
@@ -28,7 +28,7 @@ Every file in this repository, one flat list. Same content as the structured lis
 
 - [Value Calculation](03-value-economics/value-calculation.md)
 - [Value Leakage](03-value-economics/value-leakage.md)
-- [Value per Outcome — Benchmarking Guidance](03-value-economics/value-per-outcome-benchmarks.md)
+- [Value per Outcome, Benchmarking Guidance](03-value-economics/value-per-outcome-benchmarks.md)
 - [Value Progression](03-value-economics/value-progression.md)
 
 ## 04-measurement-and-observability
@@ -49,10 +49,10 @@ Every file in this repository, one flat list. Same content as the structured lis
 
 - [Lifecycle Overview](06-lifecycle/lifecycle-overview.md)
 - [Phase 1 — Define & Baseline](06-lifecycle/phase-1-define-baseline.md)
-- [Phase 2 — Architect for Economics](06-lifecycle/phase-2-architect.md)
-- [Phase 3 — Instrument](06-lifecycle/phase-3-instrument.md)
+- [Phase 2, Architect for Economics](06-lifecycle/phase-2-architect.md)
+- [Phase 3, Instrument](06-lifecycle/phase-3-instrument.md)
 - [Phase 4 — Pilot & Calibrate](06-lifecycle/phase-4-pilot-calibrate.md)
-- [Phase 5 — Operate & Attribute](06-lifecycle/phase-5-operate-attribute.md)
+- [Phase 5, Operate & Attribute](06-lifecycle/phase-5-operate-attribute.md)
 - [Phase 6 — Optimize & Scale](06-lifecycle/phase-6-optimize-scale.md)
 
 ## 07-governance

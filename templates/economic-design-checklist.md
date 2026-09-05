@@ -8,7 +8,7 @@ Complete at architecture review (see [Phase 2](../06-lifecycle/phase-2-architect
 
 - [ ] Expected cost per successful outcome estimated, with method shown ([Cost Progression](../02-cost-economics/cost-progression.md))
 - [ ] Average and ceiling iteration count per workflow defined ([Agentic Loop Multiplier](../02-cost-economics/hidden-multipliers.md#2-agentic-loop-multiplier))
-- [ ] Context passed per call reviewed — filtered/pruned where possible ([Context Window Tax](../02-cost-economics/hidden-multipliers.md#1-context-window-tax))
+- [ ] Context passed per call reviewed, filtered/pruned where possible ([Context Window Tax](../02-cost-economics/hidden-multipliers.md#1-context-window-tax))
 - [ ] Model tier justified per task complexity, not defaulted to the most capable option ([Model Routing](../05-architecture-and-design/model-routing.md))
 - [ ] Evaluation/guardrail cost checked for proportionality to decision risk ([Shadow Tax of Evaluation](../02-cost-economics/hidden-multipliers.md#3-shadow-tax-of-evaluation))
 - [ ] Each model-call step checked against: could deterministic logic replace this? ([Workload Routing](../05-architecture-and-design/workload-routing.md))

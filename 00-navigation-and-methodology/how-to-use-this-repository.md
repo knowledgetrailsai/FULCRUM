@@ -16,11 +16,11 @@ Routing by role and task — find your row, follow the path.
 
 ## Reading Order for First-Time Readers
 
-1. [01-foundations/principles.md](../01-foundations/principles.md) — the six non-negotiables
+1. [01-foundations/principles.md](../01-foundations/principles.md), the six non-negotiables
 2. [01-foundations/two-ledgers-cost-and-value.md](../01-foundations/two-ledgers-cost-and-value.md) — the core model everything else builds on
 3. [02-cost-economics/hidden-multipliers.md](../02-cost-economics/hidden-multipliers.md) and [03-value-economics/value-leakage.md](../03-value-economics/value-leakage.md) — the two things most teams get wrong
-4. [06-lifecycle/lifecycle-overview.md](../06-lifecycle/lifecycle-overview.md) — how it all fits into a real workflow's life
-5. [10-case-studies/customer-support-agent.md](../10-case-studies/customer-support-agent.md) — see it applied end-to-end
+4. [06-lifecycle/lifecycle-overview.md](../06-lifecycle/lifecycle-overview.md): how it all fits into a real workflow's life
+5. [10-case-studies/customer-support-agent.md](../10-case-studies/customer-support-agent.md), see it applied end-to-end
 
 ## Living Document
 

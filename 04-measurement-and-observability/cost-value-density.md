@@ -16,7 +16,7 @@ Net AI Value      = Realized Business Value − Total Economic Cost
 
 ## Why Two Densities, Not One
 
-A system with high Cost Density but also high Value Density can be the right investment — expensive, but worth it. A system with low Cost Density but near-zero Value Density is a false economy — cheap, but pointless. Reading Cost Density alone (the historical default) misses this distinction entirely. Always report both together, per workflow.
+A system with high Cost Density but also high Value Density can be the right investment (expensive, but worth it. A system with low Cost Density but near-zero Value Density is a false economy) cheap, but pointless. Reading Cost Density alone (the historical default) misses this distinction entirely. Always report both together, per workflow.
 
 ## Consumption Side (Cost Density denominator's numerator)
 
@@ -39,8 +39,8 @@ This is the primary use case for these metrics: comparing two designs for the sa
 ## Where These Are Tracked
 
 - Projected at [Phase 2 — Architect for Economics](../06-lifecycle/phase-2-architect.md)
-- Validated at [Phase 4 — Pilot & Calibrate](../06-lifecycle/phase-4-pilot-calibrate.md)
-- Tracked continuously at [Phase 5 — Operate & Attribute](../06-lifecycle/phase-5-operate-attribute.md)
+- Validated at [Phase 4. Pilot & Calibrate](../06-lifecycle/phase-4-pilot-calibrate.md)
+- Tracked continuously at [Phase 5; Operate & Attribute](../06-lifecycle/phase-5-operate-attribute.md)
 - Used to rank workloads at [Phase 6 — Optimize & Scale](../06-lifecycle/phase-6-optimize-scale.md)
 
 Dashboard field specification: [templates/cost-value-dashboard-spec.md](../templates/cost-value-dashboard-spec.md)

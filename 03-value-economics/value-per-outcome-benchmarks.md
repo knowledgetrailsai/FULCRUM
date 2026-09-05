@@ -16,10 +16,10 @@ This file provides a starting framework for setting Value per Outcome figures by
 
 ## Principles for Setting Benchmarks
 
-1. **Always use an existing, defensible source** — a cost report, a rate card, a conversion benchmark — never an engineering estimate. See [Value Calculation](value-calculation.md).
-2. **Segment by outcome quality, not just completion.** A "resolved" outcome that later reopens is not the same value as one that doesn't — see [Value Leakage](value-leakage.md).
-3. **Revisit quarterly.** Labor costs, conversion rates, and process costs shift — a Value per Outcome figure set a year ago may be stale. See [07-governance/review-gates.md](../07-governance/review-gates.md).
-4. **Prefer sector-specific guidance where available** — see [09-sector-specific-finops/](../09-sector-specific-finops/claims-processing.md) for deeper treatment of individual workload types.
+1. **Always use an existing, defensible source**: a cost report, a rate card, a conversion benchmark — never an engineering estimate. See [Value Calculation](value-calculation.md).
+2. **Segment by outcome quality, not just completion.** A "resolved" outcome that later reopens is not the same value as one that doesn't, see [Value Leakage](value-leakage.md).
+3. **Revisit quarterly.** Labor costs, conversion rates, and process costs shift, and a Value per Outcome figure set a year ago may be stale. See [07-governance/review-gates.md](../07-governance/review-gates.md).
+4. **Prefer sector-specific guidance where available**: see [09-sector-specific-finops/](../09-sector-specific-finops/claims-processing.md) for deeper treatment of individual workload types.
 
 ## Contributing Real Benchmarks
 

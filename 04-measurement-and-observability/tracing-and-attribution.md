@@ -38,7 +38,7 @@ See [templates/cost-value-dashboard-spec.md](../templates/cost-value-dashboard-s
 
 ## Instrumenting the Hidden Multipliers Directly
 
-The leading indicators that predict Cost Density drift before it shows up in the invoice — instrument these explicitly, not just aggregate cost:
+The leading indicators that predict Cost Density drift before it shows up in the invoice. Instrument these explicitly, not just aggregate cost:
 
 - Iteration count per task (see [Agentic Loop Multiplier](../02-cost-economics/hidden-multipliers.md#2-agentic-loop-multiplier))
 - Context size per call (see [Context Window Tax](../02-cost-economics/hidden-multipliers.md#1-context-window-tax))
@@ -46,11 +46,11 @@ The leading indicators that predict Cost Density drift before it shows up in the
 
 ## Instrumenting Outcome and Value
 
-Cost instrumentation alone is not enough. Outcome capture must be linked to the [Level 3 definition](../03-value-economics/value-progression.md) — was the task actually successful, per the business definition — ideally by linking to downstream systems that confirm business value (CRM, ticketing, ERP, billing) rather than inferring value from task completion alone.
+Cost instrumentation alone is not enough. Outcome capture must be linked to the [Level 3 definition](../03-value-economics/value-progression.md) (was the task actually successful, per the business definition) ideally by linking to downstream systems that confirm business value (CRM, ticketing, ERP, billing) rather than inferring value from task completion alone.
 
 ## When to Build This
 
-Before go-live, not after — see [Phase 3 — Instrument](../06-lifecycle/phase-3-instrument.md). Retrofitting tracing after launch means losing months of attributable data.
+Before go-live, not after (see [Phase 3) Instrument](../06-lifecycle/phase-3-instrument.md). Retrofitting tracing after launch means losing months of attributable data.
 
 ---
 

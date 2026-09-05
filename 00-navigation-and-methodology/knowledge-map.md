@@ -2,7 +2,7 @@
 
 `Home › 00-navigation-and-methodology › Knowledge Map`
 
-This repository is organized as a **control plane**, not an encyclopedia. Every AI economic decision can be traced through a consistent chain:
+Think of this repository as the control layer for economic decisions, not a reference encyclopedia. Every AI economic decision can be traced through a consistent chain:
 
 ```
 PRINCIPLE → COST/VALUE DRIVER → DESIGN LEVER → MEASUREMENT → DECISION → GOVERNANCE
@@ -32,7 +32,7 @@ Take the decision *"should this task use a frontier model?"*
 6. **Lifecycle checkpoint:** This decision is made explicit at [Phase 2 — Architect for Economics](../06-lifecycle/phase-2-architect.md) and revisited at [Phase 6 — Optimize & Scale](../06-lifecycle/phase-6-optimize-scale.md).
 7. **Governance:** Sign-off happens at the [architecture economic review gate](../07-governance/review-gates.md); persistent negative Net AI Value triggers the [escalation path](../07-governance/escalation-and-scale-retire.md).
 
-Any question in this repository can be traced the same way — from belief, to number, to decision, to owner.
+Any question in this repository can be traced the same way: from belief, to number, to decision, to owner.
 
 ## Three Ways to Navigate
 

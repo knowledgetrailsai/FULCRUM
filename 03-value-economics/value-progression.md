@@ -15,10 +15,10 @@ Value tracking should follow the same rigor as cost tracking, moving through com
 
 ## Why Each Level Is a Different Claim
 
-- **Output** — the model returned text or an action. This is the weakest possible claim; nearly every system clears this bar.
-- **Task completion** — the action finished without erroring or escalating. Many teams stop measuring here and call it "success," which overstates value — a task can complete and still be wrong.
-- **Outcome realized** — the completed task actually produced the intended business result. This requires an explicit [outcome definition](../06-lifecycle/phase-1-define-baseline.md), agreed before the system is built.
-- **Value captured** — the outcome converted to a measurable figure, net of [Value Leakage](value-leakage.md). This is the only level that supports an ROI claim.
+- **Output**: the model returned text or an action. This is the weakest possible claim; nearly every system clears this bar.
+- **Task completion**: the action finished without erroring or escalating. Many teams stop measuring here and call it "success," which overstates value — a task can complete and still be wrong.
+- **Outcome realized**: the completed task actually produced the intended business result. This requires an explicit [outcome definition](../06-lifecycle/phase-1-define-baseline.md), agreed before the system is built.
+- **Value captured**: the outcome converted to a measurable figure, net of [Value Leakage](value-leakage.md). This is the only level that supports an ROI claim.
 
 **Guidance:** Most AI investment cases are built on Level 1 or 2 evidence ("the model works," "tasks complete") while claiming Level 4 value. This gap is the single most common source of overstated AI ROI. Close it by requiring Level 3–4 evidence, per the [Outcome & Value Definition Sheet](../templates/outcome-value-definition-sheet.md), before a business case is approved.
 

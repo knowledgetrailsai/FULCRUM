@@ -30,11 +30,11 @@ Model optimization is not "which model is cheapest?" and not "which model is bes
 
 **Which model is sufficient for this workload?**
 
-"Sufficient" is defined jointly by the [outcome definition](../06-lifecycle/phase-1-define-baseline.md) and the [Total Economic Cost](../02-cost-economics/total-economic-cost.md) equation — a model that's technically cheaper but pushes failure/retry cost up is not sufficient in the economic sense.
+"Sufficient" is defined jointly by the [outcome definition](../06-lifecycle/phase-1-define-baseline.md) and the [Total Economic Cost](../02-cost-economics/total-economic-cost.md) equation; a model that's technically cheaper but pushes failure/retry cost up is not sufficient in the economic sense.
 
 ## Guarding Against Under-Routing
 
-Don't let cost minimization alone drive model tier selection — see [the cheapest-model trap](../02-cost-economics/total-economic-cost.md#why-this-matters-the-cheapest-model-trap). Track success rate by model tier (see [Metrics Catalog](../04-measurement-and-observability/metrics-catalog.md)) to catch under-routing before it shows up as elevated retry cost.
+Don't let cost minimization alone drive model tier selection; see [the cheapest-model trap](../02-cost-economics/total-economic-cost.md#why-this-matters-the-cheapest-model-trap). Track success rate by model tier (see [Metrics Catalog](../04-measurement-and-observability/metrics-catalog.md)) to catch under-routing before it shows up as elevated retry cost.
 
 ---
 

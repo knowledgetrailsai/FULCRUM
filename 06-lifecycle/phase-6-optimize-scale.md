@@ -6,8 +6,8 @@
 
 ## Activities
 
-1. **Rank workflows by Value Density**, not by volume or visibility — see [Cost & Value Density](../04-measurement-and-observability/cost-value-density.md).
-2. **Reuse validated cost/value patterns** — routing rules, evaluation designs, context strategies — across new workloads.
+1. **Rank workflows by Value Density**, not by volume or visibility. See [Cost & Value Density](../04-measurement-and-observability/cost-value-density.md).
+2. **Reuse validated cost/value patterns**: routing rules, evaluation designs, context strategies — across new workloads.
 3. **Retire or re-architect workflows with sustained low Value Density**, following the [governance escalation path](../07-governance/escalation-and-scale-retire.md).
 4. Feed learnings back into [Phase 1](phase-1-define-baseline.md) for new or revised workloads.
 

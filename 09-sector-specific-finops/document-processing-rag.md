@@ -12,12 +12,12 @@ Typically time saved × loaded hourly rate for the person who would otherwise se
 
 ## Typical Hidden Multipliers
 
-- **Context Window Tax** is the dominant cost driver in RAG architectures by design — retrieved document chunks are the primary context payload. Retrieval quality (fewer, more relevant chunks) is the highest-leverage cost control.
+- **Context Window Tax** is the dominant cost driver in RAG architectures by design. Retrieved document chunks are the primary context payload. Retrieval quality (fewer, more relevant chunks) is the highest-leverage cost control.
 - **Agentic Loop Multiplier** appears in multi-hop retrieval (retrieve → assess sufficiency → retrieve again) if not bounded.
 
 ## Typical Value Leakage Sources
 
-- Confidently wrong (hallucinated) answers that appear grounded but aren't — a serious and hard-to-detect leakage source
+- Confidently wrong (hallucinated) answers that appear grounded but aren't, a serious and hard-to-detect leakage source
 - Stale retrieved content producing outdated answers
 - Over-retrieval driving cost without improving answer quality
 

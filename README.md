@@ -108,10 +108,10 @@ Not sure which section has what you need? See [INDEX.md](INDEX.md) for every fil
 
 ## Key Distinctions This Repository Maintains
 
-- **Cost ≠ Spend ≠ Total Economic Cost** — three different claims, kept separate. See [terminology](00-navigation-and-methodology/terminology-and-glossary.md).
-- **Output ≠ Task Completion ≠ Outcome ≠ Value** — four levels of claim, frequently conflated in AI ROI reporting. See [Value Progression](03-value-economics/value-progression.md).
-- **Model Routing ≠ Workload Routing** — which model handles a task vs. whether a model is needed at all. See [05-architecture-and-design](05-architecture-and-design/workload-routing.md).
-- **Lifecycle ≠ Governance** — lifecycle is *when*; governance is *who decides*. Kept as separate sections (06 vs. 07), matching the same distinction used in the companion [Responsible-AI](https://github.com/knowledgetrailsai/Responsible-AI) repository.
+- **Cost ≠ Spend ≠ Total Economic Cost**: three different claims, kept separate. See [terminology](00-navigation-and-methodology/terminology-and-glossary.md).
+- **Output ≠ Task Completion ≠ Outcome ≠ Value**: four levels of claim, frequently conflated in AI ROI reporting. See [Value Progression](03-value-economics/value-progression.md).
+- **Model Routing ≠ Workload Routing**: which model handles a task vs. whether a model is needed at all. See [05-architecture-and-design](05-architecture-and-design/workload-routing.md).
+- **Lifecycle ≠ Governance**: lifecycle is *when*, governance is *who decides*. Kept as separate sections (06 vs. 07), matching the same distinction used in the companion [Responsible-AI](https://github.com/knowledgetrailsai/Responsible-AI) repository.
 
 ## Quick Start
 
@@ -125,18 +125,18 @@ Not sure which section has what you need? See [INDEX.md](INDEX.md) for every fil
 
 Fulcrum is the [OASIS](https://github.com/knowledgetrailsai/OASIS) companion for Chapter 22, Economics, FinOps and Sustainability, covering the economic layer: cost, value, and the discipline connecting them. See the [Companion Repository Index](https://github.com/knowledgetrailsai/OASIS/blob/main/References/companion-repository-index.md) for how the other Part III chapters map to their own companions.
 
-- **[Compass](https://github.com/knowledgetrailsai/responsible-ai)** — the responsible-AI, security, and governance companion (Chapters 19–20); a use case's regulatory obligations there often carry cost implications this repository's unit-economics tracking should surface.
-- **[Helm](https://github.com/knowledgetrailsai/HELM)** — the deployment/AgentOps companion; the Economic plane in Helm's observability spec is the raw telemetry Fulcrum's cost-progression and value-per-outcome benchmarks depend on.
-- **[Nexus](https://github.com/knowledgetrailsai/Nexus)** — the opportunity catalog; a use case's projected cost and value shape are estimated here once it reaches Fulcrum's cost/value framework.
+- **[Compass](https://github.com/knowledgetrailsai/responsible-ai)**: the responsible-AI, security, and governance companion (Chapters 19–20). A use case's regulatory obligations there often carry cost implications this repository's unit-economics tracking should surface.
+- **[Helm](https://github.com/knowledgetrailsai/HELM)**: the deployment/AgentOps companion. The Economic plane in Helm's observability spec is the raw telemetry Fulcrum's cost-progression and value-per-outcome benchmarks depend on.
+- **[Nexus](https://github.com/knowledgetrailsai/Nexus)**: the opportunity catalog. A use case's projected cost and value shape are estimated here once it reaches Fulcrum's cost/value framework.
 - **[Forge](https://github.com/knowledgetrailsai/Forge)**, **[Loom](https://github.com/knowledgetrailsai/Loom)**, **[Verity](https://github.com/knowledgetrailsai/Verity)**, **[Ageis](https://github.com/knowledgetrailsai/Ageis)**, **[Axiom](https://github.com/knowledgetrailsai/Axiom)** — the data/knowledge, human-AI workflow, evaluation, coding-delivery, and model-architecture companions respectively; none carry direct cost dependencies on Fulcrum, but any of them can be the source of the effort or compute line items Fulcrum's cost model tracks.
 
 ## Contributing
 
-This is a living methodology — see [CONTRIBUTING.md](CONTRIBUTING.md). Real Cost/Value Density benchmarks, Value Leakage patterns, sector-specific guidance, and case studies from production systems are especially welcome.
+This is a living methodology. See [CONTRIBUTING.md](CONTRIBUTING.md). Real Cost/Value Density benchmarks, Value Leakage patterns, sector-specific guidance, and case studies from production systems are especially welcome.
 
 ## Disclaimer
 
-This repository provides general guidance and methodology. It is not financial or accounting advice. Figures used in examples are illustrative, not benchmarks — always source your own Value per Outcome figures per [Phase 1](06-lifecycle/phase-1-define-baseline.md).
+This repository provides general guidance and methodology. It is not financial or accounting advice. Figures used in examples are illustrative, not benchmarks. Always source your own Value per Outcome figures per [Phase 1](06-lifecycle/phase-1-define-baseline.md).
 
 ## License
 
@@ -144,6 +144,6 @@ Licensed under [CC BY-SA 4.0](https://github.com/knowledgetrailsai/OASIS/blob/ma
 
 ## About Us
 
-**Shripadraj Mujumdar** is an Agentic AI & Automation Strategist, Advisor, and Responsible AI Expert with 28+ years of experience in enterprise architecture and AI-driven transformation, including deep hands-on work in Agentic AI, Generative AI, and enterprise data and knowledge platforms. His practice spans designing multi-agent systems, knowledge-graph and RAG architectures, accelerated delivery capabilities, and Responsible AI governance frameworks aligned to global regulatory standards. This methodology ecosystem distills that practitioner experience — architecture, delivery, evaluation, governance, and economics — into a single, reusable body of work.
+**Shripadraj Mujumdar** is an Agentic AI & Automation Strategist, Advisor, and Responsible AI Expert with 28+ years of experience in enterprise architecture and AI-driven transformation, including deep hands-on work in Agentic AI, Generative AI, and enterprise data and knowledge platforms. His practice spans designing multi-agent systems, knowledge-graph and RAG architectures, accelerated delivery capabilities, and Responsible AI governance frameworks aligned to global regulatory standards. This methodology ecosystem distills that practitioner experience (architecture, delivery, evaluation, governance, and economics) into a single, reusable body of work.
 
 **Ankit Mirajkar** is a Data & AI Architect and technology consultant specializing in modern data platforms, enterprise data architecture, and Agentic AI. His expertise spans scalable data engineering, AI-ready data platforms, Generative AI, and cloud technologies, with a strong focus on turning complex data challenges into practical, production-ready solutions. He also works at the intersection of architecture, technology strategy, and innovation to help organizations build intelligent, scalable data ecosystems.

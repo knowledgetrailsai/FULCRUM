@@ -8,9 +8,9 @@ Sustained **negative Net AI Value** on a workflow triggers mandatory review at [
 
 ## Outcomes of That Review
 
-1. **Re-architect** — apply the [Six Optimization Levers](../05-architecture-and-design/optimization-levers.md) to close the gap
-2. **Re-scope** — narrow the workload to the subset where Value Density is positive
-3. **Retire** — decommission the workflow if neither option closes the gap within an agreed timeframe
+1. **Re-architect**: apply the [Six Optimization Levers](../05-architecture-and-design/optimization-levers.md) to close the gap
+2. **Re-scope**: narrow the workload to the subset where Value Density is positive
+3. **Retire**: decommission the workflow if neither option closes the gap within an agreed timeframe
 
 ## What Counts as "Sustained"
 

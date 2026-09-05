@@ -41,4 +41,4 @@ _What Value Density or Net AI Value threshold, sustained over what period, trigg
 
 ---
 
-*Once signed off, proceed to [Phase 2 — Architect for Economics](../06-lifecycle/phase-2-architect.md).*
+*Once signed off, proceed to [Phase 2. Architect for Economics](../06-lifecycle/phase-2-architect.md).*

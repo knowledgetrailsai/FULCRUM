@@ -2,7 +2,7 @@
 
 `Home › 01-foundations › The Two Ledgers`
 
-AI FinOps has historically tracked one ledger — cost. A complete methodology tracks two, side by side, at the same granularity, for every workload.
+AI FinOps has historically tracked one ledger: cost. A complete methodology tracks two, side by side, at the same granularity, for every workload.
 
 ```
 Net AI Value = Realized Business Value − Total Economic Cost
@@ -41,7 +41,7 @@ AI Value Density = Realized Business Value ÷ Total Economic Cost
 
 Full detail: [04-measurement-and-observability/cost-value-density.md](../04-measurement-and-observability/cost-value-density.md)
 
-A system with high Cost Density but also high Value Density can still be the right investment — expensive, but worth it. A system with low Cost Density but near-zero Value Density is a false economy — cheap, but pointless. **Always read these two numbers together.**
+A system with high Cost Density but also high Value Density can still be the right investment (expensive, but worth it. A system with low Cost Density but near-zero Value Density is a false economy) cheap, but pointless. **Always read these two numbers together.**
 
 ## Where This Model Is Applied
 

@@ -27,7 +27,7 @@ Platform engineering.
 
 - Instrumenting cost but not outcome, leaving Value Density impossible to calculate later
 - Aggregating traces at the model level instead of the task level, losing the ability to attribute cost to a specific workflow
-- Treating this as a "nice to have" that can be added post-launch — by the time the invoice reveals a problem, the attributable data to diagnose it doesn't exist
+- Treating this as a "nice to have" that can be added post-launch: by the time the invoice reveals a problem, the attributable data to diagnose it doesn't exist
 
 ---
 

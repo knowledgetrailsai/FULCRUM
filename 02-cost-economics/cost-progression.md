@@ -22,10 +22,10 @@ Cost per token and cost per request measure *activity*. They say nothing about w
 Reaching cost per successful outcome requires:
 
 1. A precise **outcome definition** — see [03-value-economics/value-progression.md](../03-value-economics/value-progression.md) and [templates/outcome-value-definition-sheet.md](../templates/outcome-value-definition-sheet.md)
-2. **Task-level tracing** that links consumption to a specific outcome, not just a request — see [04-measurement-and-observability/tracing-and-attribution.md](../04-measurement-and-observability/tracing-and-attribution.md)
+2. **Task-level tracing** that links consumption to a specific outcome, not just a request, see [04-measurement-and-observability/tracing-and-attribution.md](../04-measurement-and-observability/tracing-and-attribution.md)
 3. Willingness to report the number even when it's unfavorable — Level 4 tracking surfaces expensive workflows that Level 1–2 tracking hides
 
-**Guidance:** Define your Level 4 metric before building the system, not after the first invoice — see [Phase 1](../06-lifecycle/phase-1-define-baseline.md).
+**Guidance:** Define your Level 4 metric before building the system, not after the first invoice; see [Phase 1](../06-lifecycle/phase-1-define-baseline.md).
 
 ---
 

@@ -4,7 +4,7 @@
 
 ## Definition
 
-Value Leakage is business value lost to false positives, downstream rework, customer trust erosion, or compliance exposure created by the AI system itself. It is subtracted from gross outcome value to arrive at Realized Business Value — see [Value Calculation](value-calculation.md).
+Value Leakage is business value lost to false positives, downstream rework, customer trust erosion, or compliance exposure created by the AI system itself. It is subtracted from gross outcome value to arrive at Realized Business Value. See [Value Calculation](value-calculation.md).
 
 **Value Leakage is the most commonly omitted term in AI ROI calculations, and the most common source of overstated ROI.** Any value model that doesn't name its leakage sources should be treated as incomplete.
 
@@ -19,7 +19,7 @@ Value Leakage is business value lost to false positives, downstream rework, cust
 
 ## Why It's Missed
 
-Leakage typically surfaces in a *different* system than the one that generated the original outcome — a reopened ticket in the ticketing system, a dispute in the billing system, a regulatory inquiry in a compliance system. Without deliberate cross-system tracking, each of these looks unrelated to the AI decision that caused it.
+Leakage typically surfaces in a *different* system than the one that generated the original outcome: a reopened ticket in the ticketing system, a dispute in the billing system, a regulatory inquiry in a compliance system. Without deliberate cross-system tracking, each of these looks unrelated to the AI decision that caused it.
 
 ## Measuring It
 
