@@ -2,6 +2,8 @@
 
 `Home › 04-measurement-and-observability › Tracing and Attribution`
 
+[← Previous: Metrics Catalog](metrics-catalog.md) · [Contents](../README.md) · [Next: Economic Design Review →](../05-architecture-and-design/economic-design-review.md)
+
 ## The Principle
 
 You cannot optimize what you cannot attribute. A cloud invoice can tell an organization it spent $1.4 million on AI. It won't say which workflow generated the cost, which model or agent was responsible, how much came from retries, how much came from evaluation, or whether the outcome was actually successful.
@@ -56,3 +58,7 @@ Before go-live, not after (see [Phase 3) Instrument](../06-lifecycle/phase-3-ins
 
 **Previous:** [Cost Density and Value Density](cost-value-density.md)
 **Next:** [Metrics Catalog](metrics-catalog.md)
+
+---
+
+[← Previous: Metrics Catalog](metrics-catalog.md) · [Contents](../README.md) · [Next: Economic Design Review →](../05-architecture-and-design/economic-design-review.md)

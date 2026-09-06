@@ -2,6 +2,8 @@
 
 `Home › 05-architecture-and-design › Model Routing`
 
+[← Previous: Economic Design Review](economic-design-review.md) · [Contents](../README.md) · [Next: Six Optimization Levers →](optimization-levers.md)
+
 ## The Question
 
 Why should every request go to the most capable model? It shouldn't. Model routing decides which model tier handles a task that has already been determined to need a model at all (that prior decision is [Workload Routing](workload-routing.md)).
@@ -40,3 +42,7 @@ Don't let cost minimization alone drive model tier selection; see [the cheapest-
 
 **Previous:** [Optimization Levers](optimization-levers.md)
 **Next:** [Workload Routing](workload-routing.md)
+
+---
+
+[← Previous: Economic Design Review](economic-design-review.md) · [Contents](../README.md) · [Next: Six Optimization Levers →](optimization-levers.md)

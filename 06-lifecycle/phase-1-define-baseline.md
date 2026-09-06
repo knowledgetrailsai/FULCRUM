@@ -2,6 +2,8 @@
 
 `Home › 06-lifecycle › Phase 1`
 
+[← Previous: Lifecycle Overview](lifecycle-overview.md) · [Contents](../README.md) · [Next: Phase 2, Architect for Economics →](phase-2-architect.md)
+
 **Objective:** Establish what "outcome" and "value" mean for this workload before any architecture exists.
 
 ## Why This Phase Exists
@@ -32,3 +34,7 @@ Product/business owner + FinOps lead. See [Stakeholder Roles](../01-foundations/
 ---
 
 **Next:** [Phase 2 — Architect for Economics](phase-2-architect.md)
+
+---
+
+[← Previous: Lifecycle Overview](lifecycle-overview.md) · [Contents](../README.md) · [Next: Phase 2, Architect for Economics →](phase-2-architect.md)

@@ -2,6 +2,8 @@
 
 `Home › 05-architecture-and-design › Workload Routing`
 
+[← Previous: Six Optimization Levers](optimization-levers.md) · [Contents](../README.md) · [Next: Lifecycle Overview →](../06-lifecycle/lifecycle-overview.md)
+
 ## Beyond Model Routing
 
 [Model routing](model-routing.md) asks: *which model handles this?* Workload routing asks a bigger question: *should this even reach a model?*
@@ -37,3 +39,7 @@ Workload routing is a required part of the [Phase 2 architecture review](../06-l
 
 **Previous:** [Model Routing](model-routing.md)
 **Next:** [Economic Design Review](economic-design-review.md)
+
+---
+
+[← Previous: Six Optimization Levers](optimization-levers.md) · [Contents](../README.md) · [Next: Lifecycle Overview →](../06-lifecycle/lifecycle-overview.md)

@@ -2,6 +2,8 @@
 
 `Home › 09-sector-specific-finops › Document Processing & RAG`
 
+[← Previous: Sector Guidance: Customer Support Agents](customer-support-agents.md) · [Contents](../README.md) · [Next: Case Study Template →](../10-case-studies/case-study-template.md)
+
 ## Outcome Definition Guidance
 
 Define success as a correctly grounded, accurate answer — not merely a returned answer. Ungrounded or hallucinated responses that read fluently are a distinct failure mode that simple task-completion tracking misses entirely. See [Value Progression](../03-value-economics/value-progression.md).
@@ -36,3 +38,7 @@ See [Workload Routing](../05-architecture-and-design/workload-routing.md) and [C
 
 **Previous:** [Claims Processing](claims-processing.md)
 **Next section:** [10-case-studies](../10-case-studies/case-study-template.md)
+
+---
+
+[← Previous: Sector Guidance: Customer Support Agents](customer-support-agents.md) · [Contents](../README.md) · [Next: Case Study Template →](../10-case-studies/case-study-template.md)

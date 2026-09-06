@@ -2,6 +2,8 @@
 
 `Home › 06-lifecycle › Overview`
 
+[← Previous: Workload Routing](../05-architecture-and-design/workload-routing.md) · [Contents](../README.md) · [Next: Phase 1 — Define & Baseline →](phase-1-define-baseline.md)
+
 AI FinOps is not a one-time exercise — it's a continuous lifecycle applied to every workload, from first definition through ongoing operation. Cost and value are calculated and tracked at every phase, not bolted on at the end.
 
 ## The Six Phases
@@ -37,3 +39,7 @@ Each phase transition is gated — see [07-governance/review-gates.md](../07-gov
 ---
 
 **Next:** [Phase 1 — Define & Baseline](phase-1-define-baseline.md)
+
+---
+
+[← Previous: Workload Routing](../05-architecture-and-design/workload-routing.md) · [Contents](../README.md) · [Next: Phase 1 — Define & Baseline →](phase-1-define-baseline.md)

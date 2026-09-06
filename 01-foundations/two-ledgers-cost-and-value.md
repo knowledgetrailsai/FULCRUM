@@ -2,6 +2,8 @@
 
 `Home › 01-foundations › The Two Ledgers`
 
+[← Previous: Stakeholder Roles](stakeholder-roles.md) · [Contents](../README.md) · [Next: What Is AI FinOps →](what-is-ai-finops.md)
+
 AI FinOps has historically tracked one ledger: cost. A complete methodology tracks two, side by side, at the same granularity, for every workload.
 
 ```
@@ -51,3 +53,7 @@ Every phase in the [lifecycle](../06-lifecycle/lifecycle-overview.md) touches bo
 
 **Previous:** [Core Principles](principles.md)
 **Next:** [Stakeholder Roles](stakeholder-roles.md)
+
+---
+
+[← Previous: Stakeholder Roles](stakeholder-roles.md) · [Contents](../README.md) · [Next: What Is AI FinOps →](what-is-ai-finops.md)

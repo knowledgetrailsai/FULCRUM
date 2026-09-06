@@ -2,6 +2,8 @@
 
 `Home › 02-cost-economics › Inference Paradox`
 
+[← Previous: The Three Hidden Cost Multipliers](hidden-multipliers.md) · [Contents](../README.md) · [Next: Total Economic Cost →](total-economic-cost.md)
+
 ## The Paradox
 
 Models can become cheaper while AI systems become more expensive.
@@ -36,3 +38,7 @@ This reframes cost optimization from a procurement question (which model is chea
 
 **Previous:** [The Three Hidden Multipliers](hidden-multipliers.md)
 **Next section:** [03-value-economics](../03-value-economics/value-progression.md)
+
+---
+
+[← Previous: The Three Hidden Cost Multipliers](hidden-multipliers.md) · [Contents](../README.md) · [Next: Total Economic Cost →](total-economic-cost.md)

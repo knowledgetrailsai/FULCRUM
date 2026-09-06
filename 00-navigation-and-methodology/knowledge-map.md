@@ -2,6 +2,8 @@
 
 `Home › 00-navigation-and-methodology › Knowledge Map`
 
+[← Previous: How to Use This Repository](how-to-use-this-repository.md) · [Contents](../README.md) · [Next: Terminology — Key Distinctions →](terminology-and-glossary.md)
+
 Think of this repository as the control layer for economic decisions, not a reference encyclopedia. Every AI economic decision can be traced through a consistent chain:
 
 ```
@@ -45,3 +47,7 @@ Any question in this repository can be traced the same way: from belief, to numb
 ---
 
 **Next:** [How to Use This Repository](how-to-use-this-repository.md)
+
+---
+
+[← Previous: How to Use This Repository](how-to-use-this-repository.md) · [Contents](../README.md) · [Next: Terminology — Key Distinctions →](terminology-and-glossary.md)

@@ -2,6 +2,8 @@
 
 `Home › 07-governance › Escalation`
 
+[← Previous: Decision Rights](decision-rights.md) · [Contents](../README.md) · [Next: Review Gates →](review-gates.md)
+
 ## Trigger
 
 Sustained **negative Net AI Value** on a workflow triggers mandatory review at [Phase 6 — Optimize & Scale](../06-lifecycle/phase-6-optimize-scale.md).
@@ -25,3 +27,7 @@ A single bad week is noise; a persistent trend across the [weekly/monthly review
 
 **Previous:** [Decision Rights](decision-rights.md)
 **Next section:** [08-maturity-model](../08-maturity-model/maturity-levels.md)
+
+---
+
+[← Previous: Decision Rights](decision-rights.md) · [Contents](../README.md) · [Next: Review Gates →](review-gates.md)

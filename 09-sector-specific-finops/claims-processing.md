@@ -2,6 +2,8 @@
 
 `Home › 09-sector-specific-finops › Claims Processing`
 
+[← Previous: Maturity Model](../08-maturity-model/maturity-levels.md) · [Contents](../README.md) · [Next: Sector Guidance: Coding / Engineering Agents →](coding-agents.md)
+
 ## Outcome Definition Guidance
 
 Define success as an **accurately** processed claim, not merely a processed one, accuracy verified against a sampled audit or downstream dispute rate. This is a high-risk workload category where the [Shadow Tax of Evaluation](../02-cost-economics/hidden-multipliers.md#3-shadow-tax-of-evaluation) is often justified rather than a cost to minimize.
@@ -35,3 +37,7 @@ See [Workload Routing](../05-architecture-and-design/workload-routing.md) and th
 
 **Previous:** [Coding Agents](coding-agents.md)
 **Next:** [Document Processing / RAG](document-processing-rag.md)
+
+---
+
+[← Previous: Maturity Model](../08-maturity-model/maturity-levels.md) · [Contents](../README.md) · [Next: Sector Guidance: Coding / Engineering Agents →](coding-agents.md)

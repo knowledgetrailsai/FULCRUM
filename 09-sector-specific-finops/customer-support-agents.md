@@ -2,6 +2,8 @@
 
 `Home › 09-sector-specific-finops › Customer Support Agents`
 
+[← Previous: Sector Guidance: Coding / Engineering Agents](coding-agents.md) · [Contents](../README.md) · [Next: Sector Guidance: Document Processing / RAG Workflows →](document-processing-rag.md)
+
 ## Outcome Definition Guidance
 
 Define "resolved" precisely, e.g., no reopened or related ticket within a defined window (commonly 7 days). Avoid defining success as "response sent" or "ticket closed," both of which can be gamed by premature closure. See [Value Progression](../03-value-economics/value-progression.md).
@@ -39,3 +41,7 @@ Full worked example: [10-case-studies/customer-support-agent.md](../10-case-stud
 ---
 
 **Next:** [Coding Agents](coding-agents.md)
+
+---
+
+[← Previous: Sector Guidance: Coding / Engineering Agents](coding-agents.md) · [Contents](../README.md) · [Next: Sector Guidance: Document Processing / RAG Workflows →](document-processing-rag.md)

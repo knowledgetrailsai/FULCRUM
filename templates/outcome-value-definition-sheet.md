@@ -2,6 +2,8 @@
 
 `Home › Templates › Outcome & Value Definition Sheet`
 
+[← Previous: AI Economic Design Checklist](economic-design-checklist.md) · [Contents](../README.md)
+
 Complete this **before** architecture design begins (see [Phase 1](../06-lifecycle/phase-1-define-baseline.md)). Sign-off required from both the business owner and FinOps lead.
 
 ---
@@ -42,3 +44,7 @@ _What Value Density or Net AI Value threshold, sustained over what period, trigg
 ---
 
 *Once signed off, proceed to [Phase 2. Architect for Economics](../06-lifecycle/phase-2-architect.md).*
+
+---
+
+[← Previous: AI Economic Design Checklist](economic-design-checklist.md) · [Contents](../README.md)

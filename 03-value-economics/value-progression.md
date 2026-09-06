@@ -2,6 +2,8 @@
 
 `Home › 03-value-economics › Value Progression`
 
+[← Previous: Value per Outcome, Benchmarking Guidance](value-per-outcome-benchmarks.md) · [Contents](../README.md) · [Next: Cost Density and Value Density →](../04-measurement-and-observability/cost-value-density.md)
+
 ## The Four Levels
 
 Value tracking should follow the same rigor as cost tracking, moving through comparable levels of maturity.
@@ -25,3 +27,7 @@ Value tracking should follow the same rigor as cost tracking, moving through com
 ---
 
 **Next:** [Value Calculation](value-calculation.md)
+
+---
+
+[← Previous: Value per Outcome, Benchmarking Guidance](value-per-outcome-benchmarks.md) · [Contents](../README.md) · [Next: Cost Density and Value Density →](../04-measurement-and-observability/cost-value-density.md)

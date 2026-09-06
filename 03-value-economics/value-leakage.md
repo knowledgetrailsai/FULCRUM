@@ -2,6 +2,8 @@
 
 `Home › 03-value-economics › Value Leakage`
 
+[← Previous: Value Calculation](value-calculation.md) · [Contents](../README.md) · [Next: Value per Outcome, Benchmarking Guidance →](value-per-outcome-benchmarks.md)
+
 ## Definition
 
 Value Leakage is business value lost to false positives, downstream rework, customer trust erosion, or compliance exposure created by the AI system itself. It is subtracted from gross outcome value to arrive at Realized Business Value. See [Value Calculation](value-calculation.md).
@@ -34,3 +36,7 @@ This is defined at [Phase 1](../06-lifecycle/phase-1-define-baseline.md), tested
 
 **Previous:** [Value Calculation](value-calculation.md)
 **Next:** [Value per Outcome — Benchmarking Guidance](value-per-outcome-benchmarks.md)
+
+---
+
+[← Previous: Value Calculation](value-calculation.md) · [Contents](../README.md) · [Next: Value per Outcome, Benchmarking Guidance →](value-per-outcome-benchmarks.md)

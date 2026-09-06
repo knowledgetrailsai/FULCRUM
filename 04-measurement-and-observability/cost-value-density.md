@@ -2,6 +2,8 @@
 
 `Home › 04-measurement-and-observability › Cost & Value Density`
 
+[← Previous: Value Progression](../03-value-economics/value-progression.md) · [Contents](../README.md) · [Next: Dashboard Design →](dashboard-design.md)
+
 ## The Formulas
 
 ```
@@ -48,3 +50,7 @@ Dashboard field specification: [templates/cost-value-dashboard-spec.md](../templ
 ---
 
 **Next:** [Tracing and Attribution](tracing-and-attribution.md)
+
+---
+
+[← Previous: Value Progression](../03-value-economics/value-progression.md) · [Contents](../README.md) · [Next: Dashboard Design →](dashboard-design.md)

@@ -2,6 +2,8 @@
 
 `Home › 00-navigation-and-methodology › Terminology`
 
+[← Previous: Knowledge Map](knowledge-map.md) · [Contents](../README.md) · [Next: Core Principles →](../01-foundations/principles.md)
+
 This repository uses specific terms deliberately. Conflating them is the most common source of confusion in AI economics conversations; see the [full glossary](../glossary/finops-glossary.md) for complete definitions.
 
 ## Cost ≠ Spend ≠ Total Economic Cost
@@ -48,3 +50,7 @@ Kept as separate sections deliberately, matching the same distinction used in th
 
 **Previous:** [How to Use This Repository](how-to-use-this-repository.md)
 **Full glossary:** [glossary/finops-glossary.md](../glossary/finops-glossary.md)
+
+---
+
+[← Previous: Knowledge Map](knowledge-map.md) · [Contents](../README.md) · [Next: Core Principles →](../01-foundations/principles.md)

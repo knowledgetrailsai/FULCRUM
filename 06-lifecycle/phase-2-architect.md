@@ -2,6 +2,8 @@
 
 `Home › 06-lifecycle › Phase 2`
 
+[← Previous: Phase 1 — Define & Baseline](phase-1-define-baseline.md) · [Contents](../README.md) · [Next: Phase 3, Instrument →](phase-3-instrument.md)
+
 **Objective:** Design the system against the cost and value model established in Phase 1, not just against functional requirements.
 
 ## Activities
@@ -31,3 +33,7 @@ Architecture/engineering lead, with FinOps input.
 
 **Previous:** [Phase 1 — Define & Baseline](phase-1-define-baseline.md)
 **Next:** [Phase 3, Instrument](phase-3-instrument.md)
+
+---
+
+[← Previous: Phase 1 — Define & Baseline](phase-1-define-baseline.md) · [Contents](../README.md) · [Next: Phase 3, Instrument →](phase-3-instrument.md)

@@ -2,6 +2,8 @@
 
 `Home › 01-foundations › What Is AI FinOps`
 
+[← Previous: The Two Ledgers: Cost and Value](two-ledgers-cost-and-value.md) · [Contents](../README.md) · [Next: Cost Progression →](../02-cost-economics/cost-progression.md)
+
 ## Definition
 
 AI FinOps is the discipline of designing, measuring, valuing, and governing the economics of AI systems, treating cost and business value as two ledgers tracked together, from architecture through operation, rather than a monthly invoice reviewed after the fact.
@@ -39,3 +41,7 @@ That shift (from spend visibility to cost/value density) is what this repository
 ---
 
 **Next:** [Core Principles](principles.md)
+
+---
+
+[← Previous: The Two Ledgers: Cost and Value](two-ledgers-cost-and-value.md) · [Contents](../README.md) · [Next: Cost Progression →](../02-cost-economics/cost-progression.md)

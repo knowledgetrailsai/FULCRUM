@@ -2,6 +2,8 @@
 
 `Home › 02-cost-economics › Hidden Multipliers`
 
+[← Previous: Cost Progression](cost-progression.md) · [Contents](../README.md) · [Next: The Inference Paradox →](inference-paradox.md)
+
 Architecture decisions that silently inflate spend, independent of model pricing. These are the most common reasons a Cost Density projection ([Phase 2](../06-lifecycle/phase-2-architect.md)) diverges from reality ([Phase 4](../06-lifecycle/phase-4-pilot-calibrate.md)).
 
 ## 1. Context Window Tax
@@ -43,3 +45,7 @@ This doesn't mean evaluation should be minimized (in high-risk workflows it's of
 
 **Previous:** [Total Economic Cost](total-economic-cost.md)
 **Next:** [The Inference Paradox](inference-paradox.md)
+
+---
+
+[← Previous: Cost Progression](cost-progression.md) · [Contents](../README.md) · [Next: The Inference Paradox →](inference-paradox.md)

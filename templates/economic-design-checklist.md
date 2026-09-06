@@ -2,6 +2,8 @@
 
 `Home › Templates › Economic Design Checklist`
 
+[← Previous: Cost & Value Dashboard Spec](cost-value-dashboard-spec.md) · [Contents](../README.md) · [Next: Outcome & Value Definition Sheet →](outcome-value-definition-sheet.md)
+
 Complete at architecture review (see [Phase 2](../06-lifecycle/phase-2-architect.md) and the [review playbook](../11-implementation-playbooks/architecture-review-playbook.md)), alongside functional design review.
 
 ## Cost
@@ -45,3 +47,7 @@ Complete at architecture review (see [Phase 2](../06-lifecycle/phase-2-architect
 | FinOps Lead | | |
 
 If any checkbox above is unchecked, note the reason and remediation plan before proceeding to build.
+
+---
+
+[← Previous: Cost & Value Dashboard Spec](cost-value-dashboard-spec.md) · [Contents](../README.md) · [Next: Outcome & Value Definition Sheet →](outcome-value-definition-sheet.md)

@@ -2,6 +2,8 @@
 
 `Home › 10-case-studies › Template`
 
+[← Previous: Sector Guidance: Document Processing / RAG Workflows](../09-sector-specific-finops/document-processing-rag.md) · [Contents](../README.md) · [Next: Case Study: Tier-1 Customer Support Agent →](customer-support-agent.md)
+
 Copy this structure for any new case study contribution. See [CONTRIBUTING.md](../CONTRIBUTING.md).
 
 ---
@@ -57,3 +59,7 @@ Net AI Value              = ...
 ---
 
 **See:** [09-sector-specific-finops](../09-sector-specific-finops/claims-processing.md) for guidance specific to your workload type before writing your case study.
+
+---
+
+[← Previous: Sector Guidance: Document Processing / RAG Workflows](../09-sector-specific-finops/document-processing-rag.md) · [Contents](../README.md) · [Next: Case Study: Tier-1 Customer Support Agent →](customer-support-agent.md)

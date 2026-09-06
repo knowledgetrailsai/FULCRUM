@@ -2,6 +2,8 @@
 
 `Home › Glossary`
 
+[← Previous: Playbook: Cost Spike Incident Response](../11-implementation-playbooks/incident-cost-spike-response.md) · [Contents](../README.md) · [Next: Cost & Value Dashboard Spec →](../templates/cost-value-dashboard-spec.md)
+
 | Term | Definition | See |
 |---|---|---|
 | **AI Cost Density** | Total AI Consumption ÷ Successful Business Outcomes | [04-measurement-and-observability/cost-value-density.md](../04-measurement-and-observability/cost-value-density.md) |
@@ -19,3 +21,7 @@
 | **Workload Routing** | Deciding whether a task should reach a model at all, versus a deterministic rule, database lookup, or API call | [05-architecture-and-design/workload-routing.md](../05-architecture-and-design/workload-routing.md) |
 
 See also [00-navigation-and-methodology/terminology-and-glossary.md](../00-navigation-and-methodology/terminology-and-glossary.md) for the key distinctions this repository maintains between closely related terms.
+
+---
+
+[← Previous: Playbook: Cost Spike Incident Response](../11-implementation-playbooks/incident-cost-spike-response.md) · [Contents](../README.md) · [Next: Cost & Value Dashboard Spec →](../templates/cost-value-dashboard-spec.md)

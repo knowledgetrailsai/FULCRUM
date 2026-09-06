@@ -2,6 +2,8 @@
 
 `Home › 09-sector-specific-finops › Coding Agents`
 
+[← Previous: Sector Guidance: Claims / Document Processing](claims-processing.md) · [Contents](../README.md) · [Next: Sector Guidance: Customer Support Agents →](customer-support-agents.md)
+
 ## Outcome Definition Guidance
 
 Define success as an **accepted** change (merged, or approved by a human reviewer) not merely a generated suggestion. A rejected or heavily-edited suggestion has near-zero or negative value; counting generated output as an outcome significantly overstates value. See [Value Progression](../03-value-economics/value-progression.md).
@@ -35,3 +37,7 @@ See [Workload Routing](../05-architecture-and-design/workload-routing.md).
 
 **Previous:** [Customer Support Agents](customer-support-agents.md)
 **Next:** [Claims Processing](claims-processing.md)
+
+---
+
+[← Previous: Sector Guidance: Claims / Document Processing](claims-processing.md) · [Contents](../README.md) · [Next: Sector Guidance: Customer Support Agents →](customer-support-agents.md)

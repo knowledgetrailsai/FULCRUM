@@ -2,6 +2,8 @@
 
 `Home › 11-implementation-playbooks › Architecture Review`
 
+[← Previous: Case Study: Tier-1 Customer Support Agent](../10-case-studies/customer-support-agent.md) · [Contents](../README.md) · [Next: Playbook: 90-Day AI FinOps Adoption Plan →](finops-adoption-90-day-plan.md)
+
 A working script for running the [Phase 2 review gate](../06-lifecycle/phase-2-architect.md) in practice.
 
 ## Before the Meeting
@@ -27,3 +29,7 @@ File the signed checklist alongside the workload's [Outcome & Value Definition S
 ---
 
 **Next:** [90-Day AI FinOps Adoption Plan](finops-adoption-90-day-plan.md)
+
+---
+
+[← Previous: Case Study: Tier-1 Customer Support Agent](../10-case-studies/customer-support-agent.md) · [Contents](../README.md) · [Next: Playbook: 90-Day AI FinOps Adoption Plan →](finops-adoption-90-day-plan.md)

@@ -2,6 +2,8 @@
 
 `Home › 02-cost-economics › Cost Progression`
 
+[← Previous: What Is AI FinOps](../01-foundations/what-is-ai-finops.md) · [Contents](../README.md) · [Next: The Three Hidden Cost Multipliers →](hidden-multipliers.md)
+
 ## The Four Levels
 
 | Level | Metric | What It Tells You | Typical Maturity |
@@ -30,3 +32,7 @@ Reaching cost per successful outcome requires:
 ---
 
 **Next:** [Total Economic Cost](total-economic-cost.md)
+
+---
+
+[← Previous: What Is AI FinOps](../01-foundations/what-is-ai-finops.md) · [Contents](../README.md) · [Next: The Three Hidden Cost Multipliers →](hidden-multipliers.md)

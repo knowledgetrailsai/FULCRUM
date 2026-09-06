@@ -2,6 +2,8 @@
 
 `Home › 02-cost-economics › Total Economic Cost`
 
+[← Previous: The Inference Paradox](inference-paradox.md) · [Contents](../README.md) · [Next: Value Calculation →](../03-value-economics/value-calculation.md)
+
 ## The Formula
 
 Raw AI spend understates true cost. Use the full equation:
@@ -37,3 +39,7 @@ The actual economic equation is broader than model cost. The objective isn't min
 
 **Previous:** [Cost Progression](cost-progression.md)
 **Next:** [The Three Hidden Multipliers](hidden-multipliers.md)
+
+---
+
+[← Previous: The Inference Paradox](inference-paradox.md) · [Contents](../README.md) · [Next: Value Calculation →](../03-value-economics/value-calculation.md)

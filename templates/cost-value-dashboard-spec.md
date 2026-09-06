@@ -2,6 +2,8 @@
 
 `Home › Templates › Dashboard Spec`
 
+[← Previous: AI FinOps Glossary](../glossary/finops-glossary.md) · [Contents](../README.md) · [Next: AI Economic Design Checklist →](economic-design-checklist.md)
+
 Field specification for the operational dashboard used in [Phase 5 — Operate & Attribute](../06-lifecycle/phase-5-operate-attribute.md). Layout guidance: [04-measurement-and-observability/dashboard-design.md](../04-measurement-and-observability/dashboard-design.md).
 
 ## Per-Workflow Metrics
@@ -41,3 +43,7 @@ See [11-implementation-playbooks/incident-cost-spike-response.md](../11-implemen
 ## Review Cadence
 
 See [07-governance/review-gates.md](../07-governance/review-gates.md#review-cadence).
+
+---
+
+[← Previous: AI FinOps Glossary](../glossary/finops-glossary.md) · [Contents](../README.md) · [Next: AI Economic Design Checklist →](economic-design-checklist.md)

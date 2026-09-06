@@ -2,6 +2,8 @@
 
 `Home › 11-implementation-playbooks › 90-Day Adoption Plan`
 
+[← Previous: Playbook: Architecture Economic Review](architecture-review-playbook.md) · [Contents](../README.md) · [Next: Playbook: Cost Spike Incident Response →](incident-cost-spike-response.md)
+
 A starting plan for an organization moving from [Maturity Level 0 or 1](../08-maturity-model/maturity-levels.md) toward Level 3.
 
 ## Days 1–30: Visibility
@@ -32,3 +34,7 @@ A starting plan for an organization moving from [Maturity Level 0 or 1](../08-ma
 
 **Previous:** [Architecture Review Playbook](architecture-review-playbook.md)
 **Next:** [Cost Spike Incident Response](incident-cost-spike-response.md)
+
+---
+
+[← Previous: Playbook: Architecture Economic Review](architecture-review-playbook.md) · [Contents](../README.md) · [Next: Playbook: Cost Spike Incident Response →](incident-cost-spike-response.md)

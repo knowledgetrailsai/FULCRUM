@@ -2,6 +2,8 @@
 
 `Home › 03-value-economics › Value Calculation`
 
+[← Previous: Total Economic Cost](../02-cost-economics/total-economic-cost.md) · [Contents](../README.md) · [Next: Value Leakage →](value-leakage.md)
+
 ## The Formula
 
 ```
@@ -44,3 +46,7 @@ A Value per Outcome figure with no named source is an assumption dressed as a nu
 
 **Previous:** [Value Progression](value-progression.md)
 **Next:** [Value Leakage](value-leakage.md)
+
+---
+
+[← Previous: Total Economic Cost](../02-cost-economics/total-economic-cost.md) · [Contents](../README.md) · [Next: Value Leakage →](value-leakage.md)

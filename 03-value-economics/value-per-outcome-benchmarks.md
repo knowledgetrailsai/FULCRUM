@@ -2,6 +2,8 @@
 
 `Home › 03-value-economics › Value per Outcome Benchmarks`
 
+[← Previous: Value Leakage](value-leakage.md) · [Contents](../README.md) · [Next: Value Progression →](value-progression.md)
+
 This file provides a starting framework for setting Value per Outcome figures by workload type. These are illustrative structures, not universal numbers — every organization must source its own figures per [Phase 1](../06-lifecycle/phase-1-define-baseline.md).
 
 ## Approach by Workload Type
@@ -29,3 +31,7 @@ This repository intentionally avoids publishing specific dollar figures as unive
 
 **Previous:** [Value Leakage](value-leakage.md)
 **Next section:** [04-measurement-and-observability](../04-measurement-and-observability/cost-value-density.md)
+
+---
+
+[← Previous: Value Leakage](value-leakage.md) · [Contents](../README.md) · [Next: Value Progression →](value-progression.md)

@@ -2,6 +2,8 @@
 
 `Home › 06-lifecycle › Phase 4`
 
+[← Previous: Phase 3, Instrument](phase-3-instrument.md) · [Contents](../README.md) · [Next: Phase 5, Operate & Attribute →](phase-5-operate-attribute.md)
+
 **Objective:** Validate that the projected Cost Density and Value Density from Phase 2 hold up in real usage, before scaling.
 
 ## Activities
@@ -31,3 +33,7 @@ See the [worked example](../10-case-studies/customer-support-agent.md) for a con
 
 **Previous:** [Phase 3, Instrument](phase-3-instrument.md)
 **Next:** [Phase 5 — Operate & Attribute](phase-5-operate-attribute.md)
+
+---
+
+[← Previous: Phase 3, Instrument](phase-3-instrument.md) · [Contents](../README.md) · [Next: Phase 5, Operate & Attribute →](phase-5-operate-attribute.md)

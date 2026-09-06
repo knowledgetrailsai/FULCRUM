@@ -2,6 +2,8 @@
 
 `Home › 05-architecture-and-design › Optimization Levers`
 
+[← Previous: Model Routing](model-routing.md) · [Contents](../README.md) · [Next: Workload Routing →](workload-routing.md)
+
 Use this as a checklist during architecture review ([Phase 2](../06-lifecycle/phase-2-architect.md)), not after deployment. Full checklist form: [templates/economic-design-checklist.md](../templates/economic-design-checklist.md).
 
 ## 1. Route
@@ -29,3 +31,7 @@ These levers aren't independent. They compound. A well-routed task (Lever 1) tha
 ---
 
 **Next:** [Model Routing](model-routing.md)
+
+---
+
+[← Previous: Model Routing](model-routing.md) · [Contents](../README.md) · [Next: Workload Routing →](workload-routing.md)

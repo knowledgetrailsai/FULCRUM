@@ -2,6 +2,8 @@
 
 `Home › 06-lifecycle › Phase 5`
 
+[← Previous: Phase 4 — Pilot & Calibrate](phase-4-pilot-calibrate.md) · [Contents](../README.md) · [Next: Phase 6 — Optimize & Scale →](phase-6-optimize-scale.md)
+
 **Objective:** Run the system in production with continuous cost and value attribution. This phase is ongoing; it does not have a fixed exit.
 
 ## Activities
@@ -29,3 +31,7 @@ FinOps + workflow owners, jointly. See [Stakeholder Roles](../01-foundations/sta
 
 **Previous:** [Phase 4, Pilot & Calibrate](phase-4-pilot-calibrate.md)
 **Next:** [Phase 6 — Optimize & Scale](phase-6-optimize-scale.md)
+
+---
+
+[← Previous: Phase 4 — Pilot & Calibrate](phase-4-pilot-calibrate.md) · [Contents](../README.md) · [Next: Phase 6 — Optimize & Scale →](phase-6-optimize-scale.md)

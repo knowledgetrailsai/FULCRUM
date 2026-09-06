@@ -2,6 +2,8 @@
 
 `Home › 10-case-studies › Customer Support Agent`
 
+[← Previous: Case Study Template](case-study-template.md) · [Contents](../README.md) · [Next: Playbook: Architecture Economic Review →](../11-implementation-playbooks/architecture-review-playbook.md)
+
 This example walks a single workload (a billing-inquiry support agent) through all six phases, illustrating how the framework applies in practice. Figures are illustrative, not benchmarks. See [sector guidance](../09-sector-specific-finops/customer-support-agents.md) for general treatment of this workload type.
 
 ## Phase 1 — Define & Baseline
@@ -57,3 +59,7 @@ Net AI Value              ≈ $389,000/month
 ---
 
 **Back to:** [10-case-studies](case-study-template.md) · [09-sector-specific-finops/customer-support-agents.md](../09-sector-specific-finops/customer-support-agents.md)
+
+---
+
+[← Previous: Case Study Template](case-study-template.md) · [Contents](../README.md) · [Next: Playbook: Architecture Economic Review →](../11-implementation-playbooks/architecture-review-playbook.md)

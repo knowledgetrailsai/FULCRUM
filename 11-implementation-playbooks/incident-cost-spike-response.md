@@ -2,6 +2,8 @@
 
 `Home › 11-implementation-playbooks › Cost Spike Response`
 
+[← Previous: Playbook: 90-Day AI FinOps Adoption Plan](finops-adoption-90-day-plan.md) · [Contents](../README.md) · [Next: AI FinOps Glossary →](../glossary/finops-glossary.md)
+
 A working response process for the [alerting thresholds](../04-measurement-and-observability/metrics-catalog.md#alerting-thresholds-starting-points--tune-per-workload) defined in the metrics catalog.
 
 ## Trigger
@@ -27,3 +29,7 @@ This playbook covers a sudden, isolated anomaly. A persistent trend of negative 
 
 **Previous:** [90-Day AI FinOps Adoption Plan](finops-adoption-90-day-plan.md)
 **Back to:** [README](../README.md)
+
+---
+
+[← Previous: Playbook: 90-Day AI FinOps Adoption Plan](finops-adoption-90-day-plan.md) · [Contents](../README.md) · [Next: AI FinOps Glossary →](../glossary/finops-glossary.md)

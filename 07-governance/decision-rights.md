@@ -2,6 +2,8 @@
 
 `Home › 07-governance › Decision Rights`
 
+[← Previous: Phase 6 — Optimize & Scale](../06-lifecycle/phase-6-optimize-scale.md) · [Contents](../README.md) · [Next: Escalation and Scale/Retire Decisions →](escalation-and-scale-retire.md)
+
 | Decision | Owner |
 |---|---|
 | Outcome and value definition | Business/product owner |
@@ -19,3 +21,7 @@ Centralizing all economic decisions in one role creates a conflict of interest �
 
 **Previous:** [Review Gates](review-gates.md)
 **Next:** [Escalation and Scale/Retire](escalation-and-scale-retire.md)
+
+---
+
+[← Previous: Phase 6 — Optimize & Scale](../06-lifecycle/phase-6-optimize-scale.md) · [Contents](../README.md) · [Next: Escalation and Scale/Retire Decisions →](escalation-and-scale-retire.md)

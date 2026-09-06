@@ -2,6 +2,8 @@
 
 `Home › 06-lifecycle › Phase 3`
 
+[← Previous: Phase 2, Architect for Economics](phase-2-architect.md) · [Contents](../README.md) · [Next: Phase 4 — Pilot & Calibrate →](phase-4-pilot-calibrate.md)
+
 **Objective:** Build observability for both the cost ledger and the value ledger before the system goes live.
 
 ## Activities
@@ -33,3 +35,7 @@ Platform engineering.
 
 **Previous:** [Phase 2 — Architect for Economics](phase-2-architect.md)
 **Next:** [Phase 4 — Pilot & Calibrate](phase-4-pilot-calibrate.md)
+
+---
+
+[← Previous: Phase 2, Architect for Economics](phase-2-architect.md) · [Contents](../README.md) · [Next: Phase 4 — Pilot & Calibrate →](phase-4-pilot-calibrate.md)

@@ -2,6 +2,8 @@
 
 `Home › 01-foundations › Core Principles`
 
+[← Previous: Terminology — Key Distinctions](../00-navigation-and-methodology/terminology-and-glossary.md) · [Contents](../README.md) · [Next: Stakeholder Roles →](stakeholder-roles.md)
+
 These six principles anchor every section of this repository. If a decision conflicts with one of these, the decision is wrong, not the principle.
 
 ## 1. Token cost is not outcome cost
@@ -32,3 +34,7 @@ Cost and value must both be traceable to a specific workflow, agent, and step, n
 
 **Previous:** [What Is AI FinOps](what-is-ai-finops.md)
 **Next:** [The Two Ledgers, Cost and Value](two-ledgers-cost-and-value.md)
+
+---
+
+[← Previous: Terminology — Key Distinctions](../00-navigation-and-methodology/terminology-and-glossary.md) · [Contents](../README.md) · [Next: Stakeholder Roles →](stakeholder-roles.md)

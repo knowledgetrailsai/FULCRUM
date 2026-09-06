@@ -2,6 +2,8 @@
 
 `Home › 04-measurement-and-observability › Metrics Catalog`
 
+[← Previous: Dashboard Design](dashboard-design.md) · [Contents](../README.md) · [Next: Tracing and Attribution →](tracing-and-attribution.md)
+
 Full reference of every metric used across this repository, with formula, frequency, and owner.
 
 | Metric | Formula | Frequency | Owner | Reference |
@@ -36,3 +38,7 @@ See [07-governance/review-gates.md](../07-governance/review-gates.md) for how th
 
 **Previous:** [Tracing and Attribution](tracing-and-attribution.md)
 **Next:** [Dashboard Design](dashboard-design.md)
+
+---
+
+[← Previous: Dashboard Design](dashboard-design.md) · [Contents](../README.md) · [Next: Tracing and Attribution →](tracing-and-attribution.md)

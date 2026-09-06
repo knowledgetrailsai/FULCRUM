@@ -2,6 +2,8 @@
 
 `Home › 04-measurement-and-observability › Dashboard Design`
 
+[← Previous: Cost Density and Value Density](cost-value-density.md) · [Contents](../README.md) · [Next: Metrics Catalog →](metrics-catalog.md)
+
 ## Design Principle
 
 A dashboard showing only aggregate spend answers "how much did we spend," the wrong question. A dashboard built for AI FinOps must answer "which workflow, which step, and was it worth it" at a glance.
@@ -34,3 +36,7 @@ Building Level 1 before Level 3 exists. Portfolio-level density numbers are only
 
 **Previous:** [Metrics Catalog](metrics-catalog.md)
 **Next section:** [05-architecture-and-design](../05-architecture-and-design/optimization-levers.md)
+
+---
+
+[← Previous: Cost Density and Value Density](cost-value-density.md) · [Contents](../README.md) · [Next: Metrics Catalog →](metrics-catalog.md)

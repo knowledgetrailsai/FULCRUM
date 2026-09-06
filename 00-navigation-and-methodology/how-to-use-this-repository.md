@@ -2,6 +2,8 @@
 
 `Home › 00-navigation-and-methodology › How to Use This Repository`
 
+[Contents](../README.md) · [Next: Knowledge Map →](knowledge-map.md)
+
 Routing by role and task — find your row, follow the path.
 
 | Your role/task | Start here |
@@ -30,3 +32,7 @@ This is a living methodology — see [CONTRIBUTING.md](../CONTRIBUTING.md) for h
 
 **Previous:** [Knowledge Map](knowledge-map.md)
 **Next:** [Terminology and Glossary](terminology-and-glossary.md)
+
+---
+
+[Contents](../README.md) · [Next: Knowledge Map →](knowledge-map.md)

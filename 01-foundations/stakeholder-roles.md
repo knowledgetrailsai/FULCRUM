@@ -2,6 +2,8 @@
 
 `Home › 01-foundations › Stakeholder Roles`
 
+[← Previous: Core Principles](principles.md) · [Contents](../README.md) · [Next: The Two Ledgers: Cost and Value →](two-ledgers-cost-and-value.md)
+
 AI FinOps fails when one role tries to own both ledgers alone. This methodology deliberately splits ownership.
 
 | Role | Owns | Does Not Own |
@@ -22,3 +24,7 @@ Full decision-rights detail, including escalation: [07-governance/decision-right
 
 **Previous:** [The Two Ledgers](two-ledgers-cost-and-value.md)
 **Next section:** [02-cost-economics](../02-cost-economics/cost-progression.md)
+
+---
+
+[← Previous: Core Principles](principles.md) · [Contents](../README.md) · [Next: The Two Ledgers: Cost and Value →](two-ledgers-cost-and-value.md)

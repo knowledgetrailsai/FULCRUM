@@ -2,6 +2,8 @@
 
 `Home › 05-architecture-and-design › Economic Design Review`
 
+[← Previous: Tracing and Attribution](../04-measurement-and-observability/tracing-and-attribution.md) · [Contents](../README.md) · [Next: Model Routing →](model-routing.md)
+
 ## Why This Exists
 
 By the time a system reaches production, its architecture has already encoded most of its future cost. Waiting for the monthly invoice to reveal this is too late. This review makes economics a design input, reviewed with the same rigor as security or reliability.
@@ -30,3 +32,7 @@ This review is the exit criterion for [Phase 2 — Architect for Economics](../0
 
 **Previous:** [Workload Routing](workload-routing.md)
 **Next section:** [06-lifecycle](../06-lifecycle/lifecycle-overview.md)
+
+---
+
+[← Previous: Tracing and Attribution](../04-measurement-and-observability/tracing-and-attribution.md) · [Contents](../README.md) · [Next: Model Routing →](model-routing.md)

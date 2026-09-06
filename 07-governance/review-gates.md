@@ -2,6 +2,8 @@
 
 `Home › 07-governance › Review Gates`
 
+[← Previous: Escalation and Scale/Retire Decisions](escalation-and-scale-retire.md) · [Contents](../README.md) · [Next: Maturity Model →](../08-maturity-model/maturity-levels.md)
+
 | Gate | When | Requirement |
 |---|---|---|
 | Outcome & Value sign-off | End of [Phase 1](../06-lifecycle/phase-1-define-baseline.md) | Outcome definition, value per outcome, and baseline cost agreed by business owner + FinOps |
@@ -20,3 +22,7 @@
 ---
 
 **Next:** [Decision Rights](decision-rights.md)
+
+---
+
+[← Previous: Escalation and Scale/Retire Decisions](escalation-and-scale-retire.md) · [Contents](../README.md) · [Next: Maturity Model →](../08-maturity-model/maturity-levels.md)

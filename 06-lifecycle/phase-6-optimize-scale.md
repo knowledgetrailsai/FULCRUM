@@ -2,6 +2,8 @@
 
 `Home › 06-lifecycle › Phase 6`
 
+[← Previous: Phase 5, Operate & Attribute](phase-5-operate-attribute.md) · [Contents](../README.md) · [Next: Decision Rights →](../07-governance/decision-rights.md)
+
 **Objective:** Use accumulated cost and value data to decide what scales, what gets re-architected, and what gets retired.
 
 ## Activities
@@ -29,3 +31,7 @@ Platform + business leadership, jointly.
 
 **Previous:** [Phase 5 — Operate & Attribute](phase-5-operate-attribute.md)
 **Next section:** [07-governance](../07-governance/review-gates.md)
+
+---
+
+[← Previous: Phase 5, Operate & Attribute](phase-5-operate-attribute.md) · [Contents](../README.md) · [Next: Decision Rights →](../07-governance/decision-rights.md)
