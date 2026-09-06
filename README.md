@@ -1,4 +1,4 @@
-# Fulcrum:  AI FinOps ( Part of OASIS)
+# Fulcrum: OASIS AI FinOps
 
 A comprehensive AI FinOps knowledge base covering cost economics, value economics, measurement, architecture, lifecycle, and governance. Think of it as the control layer for economic decisions, not a reference encyclopedia. Content flows through a consistent chain so any economic decision can be traced from principle to proof:
 
@@ -10,6 +10,8 @@ PRINCIPLE → COST/VALUE DRIVER → DESIGN LEVER → MEASUREMENT → DECISION �
 ![Status](https://img.shields.io/badge/status-draft%20v1.0-orange)
 
 See [00-navigation-and-methodology/knowledge-map.md](00-navigation-and-methodology/knowledge-map.md) for the full model, including a worked example tracing one decision end-to-end through every section below.
+
+**Companion repository:** [OASIS](https://github.com/knowledgetrailsai/OASIS) methodology — primarily [Chapter 22 — Economics, FinOps and Sustainability](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-22-economics-finops-and-sustainability.md).
 
 ## Why This Exists
 
